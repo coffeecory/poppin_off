@@ -22,3 +22,5 @@ Then from there move back to VSCode and commit all the remainding files you to t
 Move back to Obsidian modify the README to say:
 
 	Obsidian master
+
+

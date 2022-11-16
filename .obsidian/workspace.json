@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa664140c008fa7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Malware/git_clean_does.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Malware/git_clean_does.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9657aae91f9d8e19",
+  "active": "aa664140c008fa7e",
   "lastOpenFiles": [
     "README.md",
     "IR_resources/resources.md",

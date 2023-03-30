@@ -60,4 +60,6 @@
 
 * [SANS SEC450: Blue Team Fundamentals: Security Operations and Analysis Short Link Library](https://sec450.com/)
 
-* [Conti_playbook_translated.pdf](file:///C:/Users/itint/Downloads/Conti_playbook_translated.pdf)
+* sec450.com/conti
+
+

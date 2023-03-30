@@ -60,6 +60,8 @@
 
 * [SANS SEC450: Blue Team Fundamentals: Security Operations and Analysis Short Link Library](https://sec450.com/)
 
-* sec450.com/conti
+* [sec450.com/conti](https://sec450.com/conti)
+
+
 
 

@@ -359,7 +359,313 @@ HTTP/2 Requires manual carving of data from the DATA frame.
 
 ### HTTP C2
 
+#Alert More than 100 post's to a non-top 1000 website in under 1hr 
+
+This is not a perfect rule bc of beacon speed intervals. 
+
+GET/POST 
+- High Volume
+- Periodic in nature
+- New/untrusted domains - great SIEM filter if possible
+- Going to a root of a website (GET or POST to /)
+- Contain encoded data in request/response body
+
+RITA can be used. 
+
+#### Naked IP's
+
+Could be Vendor warrants a look
+
+POST req to / doesn't seem like scripting like PHP file, REST-Style API just straight to the ROOT Folder strange. 
+
+Host = IP addr
+
+### Exploit Kits
+
+Automatic Exploit Selection and arbitrary delivery system. Must get a redirect to there exploit kit server most likely oppurtunistic not targeted. 
+
+Use NoScirpt to disable running 3rd party scripts on webpages.
+
+Fully patched is usually best unless on rare occusion they are weaponized with a Zero-Day exploit. 
+
+Likely see highly obsfucated Javascript on redirect site or initial refferer. 
+
+### Dynamic DNS 
+
+#Alert Alert on Dynamic DNS hits 
+
+### TLS Decryption 
+
+Must have root level Cert authority created in org that can sign certs for other websites and installed this in your browser. 
+
+Client gets internal CA > Decryptor > to Site 
+Site gives its cert < back to Decryptor  < then Decrypter uses the client org assigned CA to connect back to client then this happens back and forth. 
+
+No TLS Decryptor?
+
+- Still see Dest IP use Deny List, ASN and Geo info, along with passive DNS.
+- TCP Layer shows dest port user used to create the TLS tunnel. Mostly port 443 but if you saw SSL/TLS connect to port 4444 may still have an opportunity for the occasional detection. 
+- Session Layer most intresting info here. You may see site bc DNS already but the SSL/TLS is passed in plaintext which means so it can be used a secondary source for seeing site connections. Also see who issued cert and optional org details.
+- Connection Data like volume send and rcv looking for large upload to trigger anomaly alert based on this volume. 
+
+### SSL/TLS Certs
+
+Attackers dont usually fill out the optional fields.
+Attackers also create self-signed certs that are not signed by any authority. 
+
+### JA3, JA3S, JARM TLS Fingerprints
+
+All Software makes TLS connections with slightly diff params. Firefox vs tor client vs emotet malware.
+
+JA3 Concats and hashes fields from ClientHello TLS packets.
+- JA3 is a client fingerprint, JA3S is a server fingerprint
+- TLS Version, Accepted Ciphers, List of Extensions, Elliptic Curves, Elliptic Curve Formats.
+- Firefox on windows : 771,4865-4867-4866-...
+- Hash of above can be output and then converted to the user agent. 
+
+Check your browsers JA3 hash or any hash at ja3er.com*
+Also check out JARM for a method to actively fingerprint servers!
+
+For server connects that dont fall under threat intel we can use JARM to catch C2 but make sure OPSEC wants to have there cover blown. 
+
+Zeek will create both JA3 and JA3S hashes for all connections to help ID and Stop malicous software. 
+
+JA3 can help ID gold image drift but baselining known good and spotting deviations. 
+
+Aids well with OSQUERY. 
+
+### TLS1.3
+
+Cert details not visable without Decryption
+
+Domain is still Visable in Server Name Indication Field for now.
+- Encrypted Client Hello (ECH) will soon encrypt domain 
+
+TLS 1.3 more difficult to inspect:
+- Prtection from downgrade attacks
+- Enforces without pre-master secrets from browsers
+- Encrypted SNI standard means we will eventually lose visibility of the domain being visited without Decryption.
+
+# SMTP and Email
+
+![[Pasted image 20230401163516.png]]
+
+Message User Agent - MUA
+Message Transfer Agent - MTA
+Message Delivery Agent - MDA
+
+![[Pasted image 20230401164114.png]]
+
+### Email Headers
+Trace Headers
+- Written by each MTA that Touches the email.
+- Recieved headers trace email back through MTA's.
+- Additional Fields add detail for receiving MDA/Client to interpret.
+	- Return-Path
+	- Recieved
+
+Message headers
+- Written by client sending email or submission MTA
+- Contain message metadata
+	- From
+	- To 
+	- Subject
+	- Date
+	- Message-ID
+	- MIME-Version
+	- Content-Type
+	- Content-Transfer-Encoding 
+	- x-mailer
+	- Thread-index
+	- Content-Language
+
+Body 
+- Shows "plaintext" and HTML view of the email content.
+- Attachments are usually base64 encoded. 
+
+### Recieved Header
+
+from EHLO string(Rsults of ptr lookup for IP\[IP that connected to MTA Cant be spoofed\]) by \<recieving MTA\>
 
 
+### Spoofed Email
+SPF record helps MTA look for FROM line by doing a DNS TXT record request then pull allowed IP senders for that domain. If the IP was not from that domain it would drop, spam, or quarintine. 
+
+### Verify Mail Source
+
+SPF - Sender Policy Framework
+- Mail source from verified source. 
+DKIM - Domain keys Identified Mail
+- Message Content verified via digital signature
+DMARC - Domain-based message authentication, reporting, and compliance)
+- Prevents attacks based on different from address and displayed address.
+
+### SPF Results
+
+- Pass - Client is listes as authorized for sending email
+- None/Neutral: Either there is no policy listed, or the policy
+does not address the source specifically
+- Soft fail: Between neutral and fail, client is allowed, but should
+be treated as suspicious (when "~all" is used)
+- Fail: The client is listed as unauthorized for sending email,
+usually falls under "-all" rule
+
+1. Authentication-Results header
+2. Recieved-SPF header 
+
+### DKIM
+
+DKIM verifies email source via digital signatures
+
+1. Sender picks header/body/both parts of email to sign (selector)
+2. Upon sending a new message:
+- Selector is hashed
+- The hash is encrypted with private key at the email gateway (signed)
+3. The receiver uses the domain/selector combo to:
+- Pull the public key for the domain from DNS
+- Hash the same sections from selector
+- Validate decryption under public key creates the same hash
+Takeaway: Look for dkim=pass in authentication-results header!
+
+DKIM= pass, fail, or none
+
+### DMARC
+
+SMTP has other issues:
+• From fields may differ from "Envelope" vs. "Content"
+DMARC builds on SPF and DKIM to fix this
+• Allows domain owners to specify if SPF/DKIM is set up
+• Enables reporting on authentication failures!
+• To pass DMARC a message must
+	- Pass SPF and/or DKIM and be, "aligned"
+	- SPF aligned: RFC5322.From matches RFC5331.MailFrom field
+	- DKIM aligned: RFC5322.From matches DKIM "d=" field
 
 
+# Other Net Protocols
+
+DHCP can be used by Defenders
+
+Protocols used for Lateral Movement/Exfil
+- SMB
+- SSH
+- RDP/VNC
+- Pwsh Remoting
+- ICMP/FTP
+- Any remote access or admin tool, regardless of protocol.
+
+### DHCP
+
+Why is DHCP interesting?
+• Most incidents require mapping IP address to computer
+	- DHCP provides the link from IP address to computer name
+	- Computer name can be used to find the device's owner
+Can be used to detect rogue 4evices!
+• Hostname: Matching against naming pattern, deny/allow list
+• MAC Address OUI
+	- Deny list: Wi-Fi routers, IoT devices
+	- Allow list: Company authorized laptop vendors, etc.
+
+
+## SMB
+
+One of the most commonly attacked services!
+• Windows native, runs with Samba on Linux
+• Used for connecting to Windows file shares
+• Port 445, exposed by default in a domain environment
+	- Attackers use to pivot, should never be available to/from internet
+• For attackers: Program execution and remote login!
+	- Compare to SSH capabilities, but must be admin to use
+• Used by the most dangerous exploits of the past
+	- 9 Equation Group tools
+
+Dont password re-use
+
+SMB Versions:
+• CIFS - Windows NT 4.0
+• SMBI - Windows xp, Server 2000, 2003, and 2003 R2
+• SMB2- Windows Vista, Server 2008
+• SMB2.1 - Windows 7, Server 2008 R2
+• SMB3.O/3.02 - Windows 8/8.1, Server 2012/2012 R2
+• SMB3.1 — Windows 10, Server 2016
+Clients will use highest version both sides support
+SMB 1 MUST be turned off — extremely dangerous
+
+### SSH
+
+Your best friend, and worst enemy:
+• Good: SSH allows dependable, secure remote connectivity
+• Bad: You can use that capability to send anything over the tunnel
+Need to...
+• Tunnel out of your organization, skipping all filters? SSH!
+• Route an external device's traffic to inside your network? SSH!
+• Forward traffic through a dual-homed network machine? SSH!
+• Use XII forwarding for GUI access from a remote machine? SSH!
+Conclusion: We need to lock down and monitor SSH!
+
+#Alert Allowing listing for SSH to internet, limit who can use it, what net segment from and where dst. Then monitor any connects outside that usage. 
+
+SSH out, RDP IN
+
+https://www.mandiant.com/resources/blog/bypassing-network-restrictions-through-rdp-tunneling
+
+### RDP and VNC
+
+Requires exploit of password
+
+#Controls Prevent: Use host- and network-based firewalls to block
+#Controls Prevent: Disable accounts from RDP that don't need access
+#Alert Monitor: Evaluate all port 3389 traffic (use flow logs and FW logs)
+#Alert Monitor: Use Windows login events to find odd RDP usage
+
+VNC is port 5900 or application = VNC on NGFW then investigate
+
+### Powershell Remoting
+
+Like SSH for Windows, but implemented on top of other protocols
+- PSRP = PowerShell Remoting Protocol
+- WSMV = Web Services Management Extensions for Windows Vista
+- SOAP = Simple Object Access Protocol
+- PowerShell 6.0+ now supports SSH connections as well
+Also known as WinRM (Windows Remote Management)
+Connects using port 5985 (http)/5986 (https)
+Workgroup or domain membership required
+Off by default for desktops
+On by default for servers
+
+IP <> TCP <> HTTP/HTTPS <> SOAP <> WSMV (WinRM) <> PSRP
+
+#Alert Detect traffic on port 5985/5986. Baseline attempts from pre-determined src and dest subnets and anything not in that pre-determined range is flagged as an alert. 
+
+### FTP
+
+• Old-school protocol for transferring files
+• Still used in some networks, but should be phased out
+• Action: Monitor for unexpected use, why?
+	- It's used for exfiltration: Target credit card data was exfil'd via FTP
+	- Passwords can be sniffed
+	- Data can be tampered with
+	- Many old servers are vulnerable to exploitation
+• Especially if you do not use it, alert when seen!
+• Not just the on perimeter, pay attention to internal, too!
+
+
+#Alert Exclude known good and alert on any lillicit use of the protocol and stop the activity.
+
+### Evil ICMP
+
+Packet has Payload section with arbitrary contents
+Instead of standard payload, smuggle data inside it.
+ 65507 bytes max payload size
+
+### Any Protocol
+
+Having a list of approved items (allow listing) is one of the strongest detection tactics because it doesn't rely on signatures, only deviations from known good (which means it can pick up both known and unknown attack styles). strive for a monitoring solution that will help them detect intrusions and post-exploitation activity,  known method or not.
+
+Therefore, you must be able to watch for odd behavior
+- Deep packet inspection to log metadata for transactions
+- Protocol compliance on firewalls
+- Network security monitoring
+- Layer 3- and 4-based detection layered on top
+- Outbound default deny
+Well-defined subnets and traffic flow are key to attack detection!

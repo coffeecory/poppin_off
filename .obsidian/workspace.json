@@ -88,9 +88,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b80ec2a65a21390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
+                "file": "Treasures/SOC/Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +187,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4606d4a9cd483968",
+  "active": "3b80ec2a65a21390",
   "lastOpenFiles": [
+    "Media/Pasted image 20230401132622.png",
+    "Media/Pasted image 20230401132548.png",
+    "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
     "README.md",
     "TALKS/sansBlueTeamSummit/Bits and pieces.md",
     "Treasures/Links.md",

@@ -391,6 +391,6 @@ Centralized logging plays an enormous role in attack detection!
 Analysts must understand how logging works and how to read
 common logs
 
-![[Pasted image 20230401222436.png](../../Media/Pasted%20image%2020230401222436.png)
+![Pasted image 20230401222436.png](../../Media/Pasted%20image%2020230401222436.png)
 
 

@@ -237,7 +237,7 @@ Android uses DoT already and windows 11 will support this so blocking port 853 i
 Decoding a URI 
 
 
-![[Pasted image 20230401132622.png](../../Media/Pasted%20image%2020230401132622.png)
+![Pasted image 20230401132622.png](../../Media/Pasted%20image%2020230401132622.png)
 
 HTTP GET is most common and should not use sensitive data
 
@@ -448,13 +448,13 @@ TLS 1.3 more difficult to inspect:
 
 # SMTP and Email
 
-![[Pasted image 20230401163516.png](../../Media/Pasted%20image%2020230401163516.png)
+![Pasted image 20230401163516.png](../../Media/Pasted%20image%2020230401163516.png)
 
 Message User Agent - MUA
 Message Transfer Agent - MTA
 Message Delivery Agent - MDA
 
-![[Pasted image 20230401164114.png](../../Media/Pasted%20image%2020230401164114.png)
+![Pasted image 20230401164114.png](../../Media/Pasted%20image%2020230401164114.png)
 
 ### Email Headers
 Trace Headers

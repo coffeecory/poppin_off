@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Important Events.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/Important Events.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,28 +237,27 @@
   },
   "active": "b32f135589b9863d",
   "lastOpenFiles": [
+    "IR_resources/resources.md",
+    "Treasures/SOC/Networks.md",
+    "Treasures/SOC/Linux Logging.md",
+    "Treasures/SOC/Important Events.md",
+    "Treasures/SOC/Endpoints, Logs, and Files.md",
+    "Treasures/SOC/Windows Logging.md",
+    "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
     "Media/Pasted image 20230402130015.png",
     "Media/Pasted image 20230402125958.png",
     "Media/Pasted image 20230402124407.png",
     "Media/Pasted image 20230402122129.png",
-    "Treasures/SOC/Linux Logging.md",
-    "Treasures/SOC/Important Events.md",
     "Media/Pasted image 20230402000738.png",
     "Media/Pasted image 20230401235746.png",
     "Media/Pasted image 20230401234528.png",
-    "Treasures/SOC/Windows Logging.md",
     "Media/Pasted image 20230401231739.png",
     "Media/Pasted image 20230401231420.png",
-    "Treasures/SOC/Endpoints, Logs, and Files.md",
     "Media/Pasted image 20230401222436.png",
-    "Media/Pasted image 20230401215650.png",
     "TALKS/sansBlueTeamSummit/Bits and pieces.md",
-    "Treasures/SOC/Networks.md",
-    "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
     "README.md",
     "Treasures/Links.md",
     "VSCode/change_origin.md",
-    "IR_resources/resources.md",
     "Malware/git_clean_does.md",
     "README.md.md"
   ]

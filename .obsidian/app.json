@@ -3,5 +3,6 @@
   "livePreview": true,
   "newFileLocation": "root",
   "attachmentFolderPath": "Media",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }

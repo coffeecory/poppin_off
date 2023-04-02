@@ -51,7 +51,7 @@ Both syslog-ng and rsyslog support many output formats!
 
 In addition, they support multiple output formats such as sending logs directly to a log broker such as RabbitMQ or Kafka and can output directly to some databases as well, such as MySQL MongoDB, Elasticsearch. or even Hadoop hdfs. Syslog-ng. which was made by Balabit, has recently been acquired by the company One Identity and offers an open source as well as a premium edition of their agent. Rsyslog also has a Windows agent which offers basic, professional. and enterprise versions that can be used as a third-party collection tool.
 
-![[Pasted image 20230401235746.png]]
+![[Pasted image 20230401235746.png](../../Media/Pasted%20image%2020230401235746.png)
 
 	/etc/rsyslog.d/50-defualt.conf
 

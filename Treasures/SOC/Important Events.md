@@ -72,5 +72,5 @@ Bad Username:
 Time ubuntu sshd[num]: Invalid User Pi from <ip>
 ```
 
-![[/Media/Pasted image 20230402130015.png]]
+![[/Media/Pasted image 20230402130015.png](../../Media/Pasted%20image%2020230402130015.png)
 

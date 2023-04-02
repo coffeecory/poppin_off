@@ -62,7 +62,7 @@ slide).
 
 However you modify the template it will display this way in Message view in the general tab and it will appear with Security ID %1. 
 
-![[Pasted image 20230401231420.png]]
+![[Pasted image 20230401231420.png](../../Media/Pasted%20image%2020230401231420.png)
 
 Not easily auto parsible by SIEM. For extraction of the data. it is much better to use the structure XML source or a log agent that converts it to another format like JSON in a reliable way. Trying to write a regular expression to parse the fields out of the message format of the log will be an exercise in frustration due to the conditional nature and unstructured format and, in doing so, lead to sub-par parsing with missed
 fields.

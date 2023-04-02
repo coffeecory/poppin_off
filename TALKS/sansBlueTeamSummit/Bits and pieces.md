@@ -5,19 +5,19 @@ https://youtu.be/d7aBYh2NKWU?list=RDCMUCCtOSdF1YCUeh_lsbPWIQoQ&t=2960
 ---
 # Adversary Simulation: Measure and Close the Gaps in Your Security Posture
 
-![[Pasted image 20230204201814.png]]
+![[Pasted image 20230204201814.png](../../Media/Pasted%20image%2020230204201814.png)
 
 https://youtu.be/pvGQiNOmMBs?list=RDCMUCCtOSdF1YCUeh_lsbPWIQoQ&t=1235
 
-![[Pasted image 20230205132908.png]]
+![[Pasted image 20230205132908.png](../../Media/Pasted%20image%2020230205132908.png)
 
 
-![[Pasted image 20230205133024.png]]
+![[Pasted image 20230205133024.png](../../Media/Pasted%20image%2020230205133024.png)
 https://youtu.be/pvGQiNOmMBs?list=RDCMUCCtOSdF1YCUeh_lsbPWIQoQ&t=1378
 
-![[Pasted image 20230205133532.png]]
+![[Pasted image 20230205133532.png](../../Media/Pasted%20image%2020230205133532.png)
 
-![[Pasted image 20230205133818.png]]
+![[Pasted image 20230205133818.png](../../Media/Pasted%20image%2020230205133818.png)
 https://youtu.be/pvGQiNOmMBs?list=RDCMUCCtOSdF1YCUeh_lsbPWIQoQ&t=1761
 
 ---

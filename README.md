@@ -39,5 +39,5 @@ Turn the plugin on.
 
 Press,  Ctrl+P > Type links, > Select, upgrade relative links
 
-You may need to delete the \[  bracket  prepended at the start of the as there is a duplicate that doesn't need to be there !\[[
+You may need to delete the \[  bracket  prepended at the start of the link there is a duplicate that doesn't need to be there !\[[
 

@@ -83,3 +83,21 @@ Less commonly collected, but very useful:
 - Windows Defender/Operational
 - Windows Firewall with Advanced Security/Firewall
 
+• What is your Windows Auditing policy, and
+do you have any third-party programs
+generating additional information?
+
+
+• What about scripts or programs that write
+their own logs outside of the Windows event
+collection system?
+
+
+• What log channels and additional sources
+of data are you picking up?
+
+
+• In your SIEM, do you see the XML fields, the
+General tab "message" version of the log, or
+both? Does your SIEM properly parse all the
+fields?

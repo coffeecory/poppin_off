@@ -124,9 +124,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7377fa853447008d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Linux Logging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b32f135589b9863d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Important Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -184,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/Windows Logging.md",
+                "file": "Treasures/SOC/Important Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,22 +235,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ed3a0f1ba62a34fe",
+  "active": "b32f135589b9863d",
   "lastOpenFiles": [
+    "Media/Pasted image 20230402130015.png",
+    "Media/Pasted image 20230402125958.png",
+    "Media/Pasted image 20230402124407.png",
+    "Media/Pasted image 20230402122129.png",
+    "Treasures/SOC/Linux Logging.md",
+    "Treasures/SOC/Important Events.md",
+    "Media/Pasted image 20230402000738.png",
+    "Media/Pasted image 20230401235746.png",
+    "Media/Pasted image 20230401234528.png",
+    "Treasures/SOC/Windows Logging.md",
     "Media/Pasted image 20230401231739.png",
     "Media/Pasted image 20230401231420.png",
     "Treasures/SOC/Endpoints, Logs, and Files.md",
-    "Treasures/SOC/Windows Logging.md",
     "Media/Pasted image 20230401222436.png",
     "Media/Pasted image 20230401215650.png",
     "TALKS/sansBlueTeamSummit/Bits and pieces.md",
-    "Media/Pasted image 20230401195323.png",
-    "Media/Pasted image 20230401194653.png",
     "Treasures/SOC/Networks.md",
-    "Media/Pasted image 20230401164114.png",
-    "Media/Pasted image 20230401163516.png",
-    "Media/Pasted image 20230401132622.png",
-    "Media/Pasted image 20230401132548.png",
     "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
     "README.md",
     "Treasures/Links.md",

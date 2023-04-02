@@ -100,9 +100,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9f752e69ab7b356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Endpoints, Logs, and Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed3a0f1ba62a34fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Windows Logging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -160,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/Networks.md",
+                "file": "Treasures/SOC/Windows Logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,15 +211,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3b80ec2a65a21390",
+  "active": "ed3a0f1ba62a34fe",
   "lastOpenFiles": [
+    "Media/Pasted image 20230401231739.png",
+    "Media/Pasted image 20230401231420.png",
+    "Treasures/SOC/Endpoints, Logs, and Files.md",
+    "Treasures/SOC/Windows Logging.md",
+    "Media/Pasted image 20230401222436.png",
+    "Media/Pasted image 20230401215650.png",
+    "TALKS/sansBlueTeamSummit/Bits and pieces.md",
+    "Media/Pasted image 20230401195323.png",
+    "Media/Pasted image 20230401194653.png",
+    "Treasures/SOC/Networks.md",
     "Media/Pasted image 20230401164114.png",
     "Media/Pasted image 20230401163516.png",
     "Media/Pasted image 20230401132622.png",
     "Media/Pasted image 20230401132548.png",
     "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
     "README.md",
-    "TALKS/sansBlueTeamSummit/Bits and pieces.md",
     "Treasures/Links.md",
     "VSCode/change_origin.md",
     "IR_resources/resources.md",

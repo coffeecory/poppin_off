@@ -70,17 +70,17 @@ Logon failures can take many forms:
 Bad Username:
 Time ubuntu sshd[num]: Invalid User Pi from <ip>
 ```
-![/Media/Pasted image 20230402130015.png](../../Media/Pasted%20image%2020230402130015.png)
+![/Media/Pasted image 20230402130015.png](../../../Media/Pasted%20image%2020230402130015.png)
 
 Diff fails for SSH, Desktop manager, others
 
 ### Process Creation 
 
-![](../../Media/Pasted%20image%2020230402135909.png)
+![](../../../Media/Pasted%20image%2020230402135909.png)
 
 Good use of powershell with a konw script, from a bad one. Add this to the fact that the path, hash and signature(or lack of) of a program can ez help ID anomalous program execution in the environment.
 
-![](../../Media/Pasted%20image%2020230402140338.png)
+![](../../../Media/Pasted%20image%2020230402140338.png)
 
 #### Event ID 1 vs Event ID 4688  process creation
 Sysmon benifit - Signed programs that give descritpion, product name, and company. Get multiple hashes directly inside the log. But Sysmon is makeshift EDR. 
@@ -89,15 +89,15 @@ Sysmon benifit - Signed programs that give descritpion, product name, and compan
 
 ### AuditD
 
-![](../../Media/Pasted%20image%2020230402141125.png)
+![](../../../Media/Pasted%20image%2020230402141125.png)
 
 AuditD output example
 
-![](../../Media/Pasted%20image%2020230402141513.png)
+![](../../../Media/Pasted%20image%2020230402141513.png)
 
 ### Snoopy Process Creation Logger
 
-![](../../Media/Pasted%20image%2020230402141729.png)
+![](../../../Media/Pasted%20image%2020230402141729.png)
 
 Perfection solution fallacy: "Just because it's not perfect, doesn't mean it's not useful."
 
@@ -105,23 +105,23 @@ Perfection solution fallacy: "Just because it's not perfect, doesn't mean it's n
 
 ### Windows Firewall and Advanced Security Logs
 
-![](../../Media/Pasted%20image%2020230402142212.png)
+![](../../../Media/Pasted%20image%2020230402142212.png)
 
 ### Intrepreting Linux IPTables FW logs
 
-![](../../Media/Pasted%20image%2020230402142557.png)
+![](../../../Media/Pasted%20image%2020230402142557.png)
 
 Layer 3/4 information and protocol are most likely to be of use in identifying interesting traffic.
 
 ### Object Access Auditing Win
 
-![](../../Media/Pasted%20image%2020230402142849.png)
+![](../../../Media/Pasted%20image%2020230402142849.png)
  
 Event ID 4660 An object was deleted can catch Ransomware.
 
 ### Service Creation Win EventID 7045/4697
 
-![](../../Media/Pasted%20image%2020230402143445.png)
+![](../../../Media/Pasted%20image%2020230402143445.png)
 
 
 
@@ -131,12 +131,12 @@ Event ID 4660 An object was deleted can catch Ransomware.
 
 ### New Scheduled Task
 
-![](../../Media/Pasted%20image%2020230402150224.png)
+![](../../../Media/Pasted%20image%2020230402150224.png)
 
 
 ### USB PNP Events
 
-![](../../Media/Pasted%20image%2020230402150728.png)
+![](../../../Media/Pasted%20image%2020230402150728.png)
 
 Log shows Vendor ID, location for the physical port, Device Name
 
@@ -148,17 +148,17 @@ Show VID and PID act like OUI MACs for SUB
 
 ### New User Creation and Group Mgmt
 
-![](../../Media/Pasted%20image%2020230402151512.png)
+![](../../../Media/Pasted%20image%2020230402151512.png)
 
 ### Windows Defender
 
-![](../../Media/Pasted%20image%2020230402151830.png)
+![](../../../Media/Pasted%20image%2020230402151830.png)
 
 Collect 1006 and 1116 if at all
 
 ### Powershell Script Block log
 
-![](../../Media/Pasted%20image%2020230402152200.png)
+![](../../../Media/Pasted%20image%2020230402152200.png)
 
 https://www.sans.org/podcasts/blueprint/powershell-for-the-blue-team-with-josh-johnson/
 
@@ -168,19 +168,19 @@ Doesn't log output of command but can enable transcription logging for that info
 
 ### Kerberos Auth and TGS
 
-![](../../Media/Pasted%20image%2020230402152640.png)
+![](../../../Media/Pasted%20image%2020230402152640.png)
 
 ##### Kerberos Auth Visualized
 
-![](../../Media/Pasted%20image%2020230402153059.png)
+![](../../../Media/Pasted%20image%2020230402153059.png)
 
 #### Kerberos Log Events
 
-![](../../Media/Pasted%20image%2020230402153541.png)
+![](../../../Media/Pasted%20image%2020230402153541.png)
 
 ### Event ID 4768: Kerb Auth Ticket TGT requested
 
-![](../../Media/Pasted%20image%2020230402153829.png)
+![](../../../Media/Pasted%20image%2020230402153829.png)
 
 0 = Success if not 0 lookup fail code
 
@@ -195,7 +195,7 @@ We can also go deeper was it a normal pass vs smart card using preauth type fiel
 ### EID 4769/4770 Kerb Service Ticket was Requested/Renewed
 
 
-![](../../Media/Pasted%20image%2020230402154934.png)
+![](../../../Media/Pasted%20image%2020230402154934.png)
 
 Service Name and SID shows the account or Computer Object the ticket was requested for when possible the WEV maps SID to name. 
 
@@ -207,11 +207,11 @@ Filter Failure Code 0x20 TGS ticket Expired on 4769 little to no sec value.
 
 ### Logging in with Kerberos
 
-![](../../Media/Pasted%20image%2020230402155910.png)
+![](../../../Media/Pasted%20image%2020230402155910.png)
 
 #Alert Look for Any connection using NTLM package Name in the 4624 logs and look for NTLMv1 or LM. 
 
-![](../../Media/Pasted%20image%2020230402160444.png)
+![](../../../Media/Pasted%20image%2020230402160444.png)
 
 Securing Windows Workstations: Developing a Secure Baseline – Active Directory Security
 https://adsecurity.org/?p=3299

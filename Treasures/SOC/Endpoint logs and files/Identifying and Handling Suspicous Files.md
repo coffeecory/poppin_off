@@ -1,23 +1,23 @@
 
-![](../../Media/Pasted%20image%2020230402181002.png)
+![](../../../Media/Pasted%20image%2020230402181002.png)
 
 ### Safely Handeling Malicous Files
 
-![](../../Media/Pasted%20image%2020230402181057.png)
+![](../../../Media/Pasted%20image%2020230402181057.png)
 
 ### Moving Malicous Files
 
-![](../../Media/Pasted%20image%2020230402181410.png)
+![](../../../Media/Pasted%20image%2020230402181410.png)
 
 
 ### Dangerous Files
 
-![](../../Media/Pasted%20image%2020230402181653.png)
-![](../../Media/Pasted%20image%2020230402181910.png)
-![](../../Media/Pasted%20image%2020230402182149.png)
-![](../../Media/Pasted%20image%2020230402182407.png)
-![](../../Media/Pasted%20image%2020230402182917.png)
-![](../../Media/Pasted%20image%2020230402183319.png)
+![](../../../Media/Pasted%20image%2020230402181653.png)
+![](../../../Media/Pasted%20image%2020230402181910.png)
+![](../../../Media/Pasted%20image%2020230402182149.png)
+![](../../../Media/Pasted%20image%2020230402182407.png)
+![](../../../Media/Pasted%20image%2020230402182917.png)
+![](../../../Media/Pasted%20image%2020230402183319.png)
 
 	strings file | grep http
 
@@ -25,34 +25,34 @@ https://remnux.org/
 
 https://zeltser.com/analyzing-malicious-documents/
 
-![](../../Media/Pasted%20image%2020230402183609.png)
+![](../../../Media/Pasted%20image%2020230402183609.png)
 
 
 ### Quickly Sort Good from Bad
 
-![](../../Media/Pasted%20image%2020230402184153.png)
+![](../../../Media/Pasted%20image%2020230402184153.png)
 
 ### Hashing
 
-![](../../Media/Pasted%20image%2020230402184734.png)
+![](../../../Media/Pasted%20image%2020230402184734.png)
 
 ### Signatures
 
-![](../../Media/Pasted%20image%2020230402184750.png)
+![](../../../Media/Pasted%20image%2020230402184750.png)
 
 ### Verify Signatures with SigCheck
 
-![](../../Media/Pasted%20image%2020230402185211.png)
+![](../../../Media/Pasted%20image%2020230402185211.png)
 
 	sigcheck.exe -a -h -v c:\Windows\System32\calc.exe
 
 ### Is Digitally Signed Safe
 
-![](../../Media/Pasted%20image%2020230402185449.png)
+![](../../../Media/Pasted%20image%2020230402185449.png)
 
 ### Investigation VS Visual Inspection
 
-![](../../Media/Pasted%20image%2020230402185727.png)
+![](../../../Media/Pasted%20image%2020230402185727.png)
 
 A curated list of malware repositories, trackers and malware analysis tools
 
@@ -61,11 +61,11 @@ https://github.com/albertzsigovits/malware-tools
 
 ### Detecting Malicous Scripts
 
-![](../../Media/Pasted%20image%2020230402190256.png)
+![](../../../Media/Pasted%20image%2020230402190256.png)
 
-![](../../Media/Pasted%20image%2020230402190314.png)
+![](../../../Media/Pasted%20image%2020230402190314.png)
 
-![](../../Media/Pasted%20image%2020230402190519.png)
+![](../../../Media/Pasted%20image%2020230402190519.png)
 
 ## Handling Malware Links
 

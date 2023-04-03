@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
+                "file": "Treasures/SOC/Blue Tools/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Networks.md",
+                "file": "Treasures/SOC/Networks/Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Endpoints, Logs, and Files.md",
+                "file": "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Windows Logging.md",
+                "file": "Treasures/SOC/Endpoint logs and files/Windows Logging.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Linux Logging.md",
+                "file": "Treasures/SOC/Endpoint logs and files/Linux Logging.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Important Events.md",
+                "file": "Treasures/SOC/Endpoint logs and files/Important Events.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Log Collection, Parsing, Normalization.md",
+                "file": "Treasures/SOC/Endpoint logs and files/Log Collection, Parsing, Normalization.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/File Contents and Identification.md",
+                "file": "Treasures/SOC/Endpoint logs and files/File Contents and Identification.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Identifying and Handling Suspicous Files.md",
+                "file": "Treasures/SOC/Endpoint logs and files/Identifying and Handling Suspicous Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -359,7 +359,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",
+                "file": "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -424,7 +424,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",
+                "file": "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,8 +451,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d5a25ce7289d5987",
+  "active": "45505df43ca08521",
   "lastOpenFiles": [
+    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",
+    "Treasures/SOC/Endpoint logs and files",
+    "Treasures/SOC/Blue Tools",
+    "Treasures/SOC/Networks",
+    "Treasures/Untitled",
     "Media/Pasted image 20230402214703.png",
     "Media/Pasted image 20230402214655.png",
     "Media/Pasted image 20230402214638.png",
@@ -463,9 +468,7 @@
     "Media/Pasted image 20230402214549.png",
     "Media/Pasted image 20230402214537.png",
     "Media/Pasted image 20230402214526.png",
-    "Media/Pasted image 20230402214517.png",
     "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Containing Indentified Intrusions.md",
-    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",
     "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Automation and Orchestration.md",
     "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Tuning and False Positive Reduction.md",
     "Treasures/SOC/Continuous Improvement, Analytics, and Automation/New Analytic Design, Testing, and Sharing.md",
@@ -480,16 +483,16 @@
     "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
     "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
     "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
-    "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
-    "Treasures/SOC/Identifying and Handling Suspicous Files.md",
+    "Treasures/SOC/Blue Tools/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
+    "Treasures/SOC/Endpoint logs and files/Identifying and Handling Suspicous Files.md",
     "Treasures/SOC/Triage and Analysis",
-    "Treasures/SOC/Important Events.md",
-    "Treasures/SOC/Networks.md",
-    "Treasures/SOC/Endpoints, Logs, and Files.md",
-    "Treasures/SOC/Windows Logging.md",
-    "Treasures/SOC/File Contents and Identification.md",
-    "Treasures/SOC/Log Collection, Parsing, Normalization.md",
-    "Treasures/SOC/Linux Logging.md",
+    "Treasures/SOC/Endpoint logs and files/Important Events.md",
+    "Treasures/SOC/Networks/Networks.md",
+    "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
+    "Treasures/SOC/Endpoint logs and files/Windows Logging.md",
+    "Treasures/SOC/Endpoint logs and files/File Contents and Identification.md",
+    "Treasures/SOC/Endpoint logs and files/Log Collection, Parsing, Normalization.md",
+    "Treasures/SOC/Endpoint logs and files/Linux Logging.md",
     "README.md"
   ]
 }

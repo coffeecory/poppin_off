@@ -191,14 +191,182 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
+                "file": "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3378a9cb4f16ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59bdc0ac6d7ed3e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b20ae9eb507fc96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Triage and Analysis/Structured Analytical Techniques.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1bb425fda77d8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Triage and Analysis/Analysis Questions and Tactics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac51a6df3af75312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Triage and Analysis/OPSEC Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "537cf2b51bab9d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Triage and Analysis/Intrusion Discovery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "078309735d4277a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Triage and Analysis/Incident Closing and Quality Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "648d665b734105f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Improving Life in the SOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2e282d5c54a9984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Analytic Features and Enrichment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "861f274cef3a1866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/New Analytic Design, Testing, and Sharing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cae60b8cd315798f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Tuning and False Positive Reduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08a82b138c669277",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Automation and Orchestration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b66ed51ced97e7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Containing Indentified Intrusions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5a25ce7289d5987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -256,7 +424,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
+                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,35 +451,45 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "97d76ae0e3697a3a",
+  "active": "d5a25ce7289d5987",
   "lastOpenFiles": [
+    "Media/Pasted image 20230402214703.png",
+    "Media/Pasted image 20230402214655.png",
+    "Media/Pasted image 20230402214638.png",
+    "Media/Pasted image 20230402214628.png",
+    "Media/Pasted image 20230402214618.png",
+    "Media/Pasted image 20230402214611.png",
+    "Media/Pasted image 20230402214558.png",
+    "Media/Pasted image 20230402214549.png",
+    "Media/Pasted image 20230402214537.png",
+    "Media/Pasted image 20230402214526.png",
+    "Media/Pasted image 20230402214517.png",
+    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Containing Indentified Intrusions.md",
+    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",
+    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Automation and Orchestration.md",
+    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Tuning and False Positive Reduction.md",
+    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/New Analytic Design, Testing, and Sharing.md",
+    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Analytic Features and Enrichment.md",
+    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Improving Life in the SOC.md",
+    "Treasures/SOC/Triage and Analysis/Incident Closing and Quality Review.md",
+    "Treasures/SOC/Continuous Improvement, Analytics, and Automation",
+    "Treasures/SOC/Triage and Analysis/Intrusion Discovery.md",
+    "Treasures/SOC/Triage and Analysis/OPSEC Analysis.md",
+    "Treasures/SOC/Triage and Analysis/Analysis Questions and Tactics.md",
+    "Treasures/SOC/Triage and Analysis/Structured Analytical Techniques.md",
+    "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
+    "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
     "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
-    "Media/Pasted image 20230402192019.png",
+    "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
     "Treasures/SOC/Identifying and Handling Suspicous Files.md",
     "Treasures/SOC/Triage and Analysis",
     "Treasures/SOC/Important Events.md",
-    "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
     "Treasures/SOC/Networks.md",
     "Treasures/SOC/Endpoints, Logs, and Files.md",
     "Treasures/SOC/Windows Logging.md",
-    "Media/Pasted image 20230402190519.png",
-    "Media/Pasted image 20230402190314.png",
-    "Media/Pasted image 20230402190256.png",
-    "Media/Pasted image 20230402185727.png",
-    "Media/Pasted image 20230402185449.png",
-    "Media/Pasted image 20230402185211.png",
-    "Media/Pasted image 20230402184750.png",
-    "Media/Pasted image 20230402184734.png",
-    "Media/Pasted image 20230402184153.png",
     "Treasures/SOC/File Contents and Identification.md",
     "Treasures/SOC/Log Collection, Parsing, Normalization.md",
     "Treasures/SOC/Linux Logging.md",
-    "README.md",
-    "IR_resources/resources.md",
-    "TALKS/sansBlueTeamSummit/Bits and pieces.md",
-    "Treasures/Links.md",
-    "VSCode/change_origin.md",
-    "Malware/git_clean_does.md",
-    "README.md.md"
+    "README.md"
   ]
 }

@@ -359,7 +359,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
+                "file": "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -424,7 +424,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
+                "file": "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,8 +451,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "45505df43ca08521",
+  "active": "d5a25ce7289d5987",
   "lastOpenFiles": [
+    "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
+    "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
+    "Treasures/SOC/Triage and Analysis/Analysis Questions and Tactics.md",
+    "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
     "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",
     "Treasures/SOC/Endpoint logs and files",
     "Treasures/SOC/Blue Tools",
@@ -478,17 +482,13 @@
     "Treasures/SOC/Continuous Improvement, Analytics, and Automation",
     "Treasures/SOC/Triage and Analysis/Intrusion Discovery.md",
     "Treasures/SOC/Triage and Analysis/OPSEC Analysis.md",
-    "Treasures/SOC/Triage and Analysis/Analysis Questions and Tactics.md",
     "Treasures/SOC/Triage and Analysis/Structured Analytical Techniques.md",
-    "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
     "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
-    "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
     "Treasures/SOC/Blue Tools/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
     "Treasures/SOC/Endpoint logs and files/Identifying and Handling Suspicous Files.md",
     "Treasures/SOC/Triage and Analysis",
     "Treasures/SOC/Endpoint logs and files/Important Events.md",
     "Treasures/SOC/Networks/Networks.md",
-    "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
     "Treasures/SOC/Endpoint logs and files/Windows Logging.md",
     "Treasures/SOC/Endpoint logs and files/File Contents and Identification.md",
     "Treasures/SOC/Endpoint logs and files/Log Collection, Parsing, Normalization.md",

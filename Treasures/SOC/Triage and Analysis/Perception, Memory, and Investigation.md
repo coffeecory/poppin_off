@@ -14,4 +14,13 @@
 ![](../../../Media/Pasted%20image%2020230402203924.png)
 
 
+Psychology_of_Intelligence_Analysis.pdf
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf
+
+Why We Stop Noticing the World Around Us | Psychology Today
+https://www.psychologytoday.com/us/blog/metacognition-and-the-mind/201806/why-we-stop-noticing-the-world-around-us
+
+selective attention test - YouTube
+https://www.youtube.com/watch?v=vJG698U2Mvo
+
 

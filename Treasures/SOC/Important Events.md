@@ -248,3 +248,102 @@ some regular time keeping up on new attack
 techniques and ideally synthesizing them in a lab
 to try to understand what types of marks they
 will make in the environment
+
+---
+## Events Links
+
+Authentication Service Exchange - Win32 apps | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/win32/secauthn/authentication-service-exchange
+
+Ticket-Granting Service Exchange - Win32 apps | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/win32/secauthn/ticket-granting-service-exchange
+
+Client/Server Exchange - Win32 apps | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/win32/secauthn/client-server-exchange
+
+4768(S, F) A Kerberos authentication ticket (TGT) was requested. (Windows 10) | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4768
+
+4769(S, F) A Kerberos service ticket was requested. (Windows 10) | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4769
+
+4624(S) An account was successfully logged on. (Windows 10) | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4624
+
+Securing Windows Workstations: Developing a Secure Baseline – Active Directory Security
+https://adsecurity.org/?p=3299
+
+Securing Domain Controllers to Improve Active Directory Security – Active Directory Security
+https://adsecurity.org/?p=3377
+
+cor-origin.nsa.gov
+https://cor-origin.nsa.gov/IAD/errorIAD.cfm
+
+Cheat-Sheets — Malware Archaeology
+https://www.malwarearchaeology.com/cheat-sheets/
+
+Windows Security Log Encyclopedia
+https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx
+
+Greater Visibility Through PowerShell Logging | Mandiant
+https://www.mandiant.com/resources/blog/greater-visibility
+
+Windows Security Log Event ID 4624 - An account was successfully logged on
+https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventID=4624
+
+Chapter 7. System Auditing Red Hat Enterprise Linux 7 | Red Hat Customer Portal
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/chap-system_auditing
+
+7.6. Understanding Audit Log Files Red Hat Enterprise Linux 7 | Red Hat Customer Portal
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-understanding_audit_log_files
+
+Linux Auditd Best Practice Configuration
+https://gist.github.com/Neo23x0/9fe88c0c5979e017a389b90fd19ddfee
+
+rebootuser/LinEnum: Scripted Local Linux Enumeration & Privilege Escalation Checks
+https://github.com/rebootuser/LinEnum
+
+Troubleshooting Windows Firewall with Advanced Security in Windows Server 2012 - TechNet Articles - United States (English) - TechNet Wiki
+https://social.technet.microsoft.com/wiki/contents/articles/13894.troubleshooting-windows-firewall-with-advanced-security-in-windows-server-2012.aspx#Configure_the_firewall_log_file_for_a_profile
+
+Chapter 7 Object Access Events
+https://www.ultimatewindowssecurity.com/securitylog/book/page.aspx?spid=chapter7#FileSys
+
+www.linux-usb.org/usb.ids
+http://www.linux-usb.org/usb.ids
+
+USB\VID_090C = Silicon Motion / Feiya Technology - USB ID Database - Vendor ID and Product ID list - the sz development
+https://www.the-sz.com/products/usbid/index.php?v=0x090c&p=1000&n=
+
+DarkVishnya: Banks attacked through direct connection to local network | Securelist
+https://securelist.com/darkvishnya/89169/
+
+Microsoft Defender Antivirus event IDs and error codes | Microsoft Learn
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
+
+Greater Visibility Through PowerShell Logging | Mandiant
+https://www.mandiant.com/resources/blog/greater-visibility
+
+RFC 3164: The BSD Syslog Protocol
+https://www.rfc-editor.org/rfc/rfc3164
+
+RFC 5424: The Syslog Protocol
+https://www.rfc-editor.org/rfc/rfc5424
+
+RFC 5427: Textual Conventions for Syslog Management
+https://www.rfc-editor.org/rfc/rfc5427
+
+LinuxLogFiles - Community Help Wiki
+https://help.ubuntu.com/community/LinuxLogFiles
+
+Chapter 40. Log Files Red Hat Enterprise Linux 5 | Red Hat Customer Portal
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/ch-logfiles
+
+a2o/snoopy: Snoopy Command Logger is a small library that logs all program executions on your Linux/BSD system.
+https://github.com/a2o/snoopy
+
+Sysinternals/SysmonForLinux
+https://github.com/Sysinternals/SysmonForLinux
+
+Josh Johnson: PowerShell for the Blue Team: 19 | SANS Institute
+https://www.sans.org/podcasts/blueprint/powershell-for-the-blue-team-with-josh-johnson/

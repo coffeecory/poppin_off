@@ -148,9 +148,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "575b51fcd53f2c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Log Collection, Parsing, Normalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e51860e273f62ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/File Contents and Identification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07386847b55e4304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/Identifying and Handling Suspicous Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d76ae0e3697a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -208,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/Important Events.md",
+                "file": "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,25 +283,29 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b32f135589b9863d",
+  "active": "97d76ae0e3697a3a",
   "lastOpenFiles": [
-    "Media/Pasted image 20230402161707.png",
-    "Media/Pasted image 20230402160444.png",
-    "Media/Pasted image 20230402155910.png",
-    "Media/Pasted image 20230402154934.png",
-    "Media/Pasted image 20230402153829.png",
-    "Media/Pasted image 20230402153541.png",
-    "Media/Pasted image 20230402153059.png",
-    "Media/Pasted image 20230402152640.png",
-    "Media/Pasted image 20230402152200.png",
-    "Media/Pasted image 20230402151830.png",
-    "Media/Pasted image 20230402151512.png",
-    "Treasures/SOC/Windows Logging.md",
+    "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
+    "Media/Pasted image 20230402192019.png",
+    "Treasures/SOC/Identifying and Handling Suspicous Files.md",
+    "Treasures/SOC/Triage and Analysis",
+    "Treasures/SOC/Important Events.md",
     "Treasures/SOC/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
     "Treasures/SOC/Networks.md",
-    "Treasures/SOC/Linux Logging.md",
-    "Treasures/SOC/Important Events.md",
     "Treasures/SOC/Endpoints, Logs, and Files.md",
+    "Treasures/SOC/Windows Logging.md",
+    "Media/Pasted image 20230402190519.png",
+    "Media/Pasted image 20230402190314.png",
+    "Media/Pasted image 20230402190256.png",
+    "Media/Pasted image 20230402185727.png",
+    "Media/Pasted image 20230402185449.png",
+    "Media/Pasted image 20230402185211.png",
+    "Media/Pasted image 20230402184750.png",
+    "Media/Pasted image 20230402184734.png",
+    "Media/Pasted image 20230402184153.png",
+    "Treasures/SOC/File Contents and Identification.md",
+    "Treasures/SOC/Log Collection, Parsing, Normalization.md",
+    "Treasures/SOC/Linux Logging.md",
     "README.md",
     "IR_resources/resources.md",
     "TALKS/sansBlueTeamSummit/Bits and pieces.md",

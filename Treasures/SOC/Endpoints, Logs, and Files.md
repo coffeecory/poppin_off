@@ -394,3 +394,79 @@ common logs
 ![Pasted image 20230401222436.png](../../Media/Pasted%20image%2020230401222436.png)
 
 
+---
+How Windows Defender Credential Guard works | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-how-it-works
+
+Microsoft Defender Application Guard (Windows 10 or Windows 11) | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-overview
+
+Application Guard for Office for admins - Office 365 | Microsoft Learn
+https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/install-app-guard?view=o365-worldwide
+
+What is File Block? - Microsoft Support
+https://support.microsoft.com/en-us/office/what-is-file-block-10d0e0ab-fecf-4605-befd-1e6563e7686d
+
+Application Control for Windows | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/
+
+Safely open apps on your Mac - Apple Support
+https://support.apple.com/en-us/HT202491
+
+AppArmor - Ubuntu Wiki
+https://wiki.ubuntu.com/AppArmor
+
+'First ever' SHA-1 hash collision calculated. All it took were five clever brains... and 6,610 years of processor time • The Register
+https://www.theregister.com/2017/02/23/google_first_sha1_collision/
+
+Autoruns for Windows - Sysinternals | Microsoft Learn
+https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns
+
+Why are privileged access devices important | Microsoft Learn
+https://learn.microsoft.com/en-us/security/privileged-access-workstations/privileged-access-devices
+
+PAW deployment guide | Microsoft Learn
+https://learn.microsoft.com/en-us/archive/blogs/datacentersecurity/paw-deployment-guide
+
+Data Loss Prevention - Devlin | SANS Institute
+https://www.sans.org/white-papers/37152/
+
+37152.pdf
+https://sansorg.egnyte.com/dl/R0JecbDZ2K
+
+Understand and use attack surface reduction (ASR) | Microsoft Learn
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-attack-surface-reduction?view=o365-worldwide
+
+Microsoft Defender Application Guard (Windows 10 or Windows 11) | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/md-app-guard-overview
+
+Application Guard for Office for admins - Office 365 | Microsoft Learn
+https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/install-app-guard?view=o365-worldwide
+
+What is File Block? - Microsoft Support
+https://support.microsoft.com/en-us/office/what-is-file-block-10d0e0ab-fecf-4605-befd-1e6563e7686d
+
+The Dirty Pipe Vulnerability — The Dirty Pipe Vulnerability documentation
+https://dirtypipe.cm4all.com/
+
+gentilkiwi/mimikatz: A little tool to play with Windows security
+https://github.com/gentilkiwi/mimikatz
+
+OS Credential Dumping, Technique T1003 - Enterprise | MITRE ATT&CK®
+https://attack.mitre.org/techniques/T1003/
+
+MITRE ATT&CK®
+https://attack.mitre.org/
+
+xp_cmdshell (Transact-SQL) - SQL Server | Microsoft Learn
+https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/xp-cmdshell-transact-sql?view=sql-server-2017
+
+PowerSploit/Privesc at master · PowerShellMafia/PowerSploit
+https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc
+
+VirusTotal - URL - 168f075b46869731ad1fd06b2adc0e80209deb15b0d4dc058c46ca949d18d97c
+https://www.virustotal.com/gui/url/168f075b46869731ad1fd06b2adc0e80209deb15b0d4dc058c46ca949d18d97c/details
+
+is.gd - a URL shortener. Mmmm, tasty URLs!
+https://is.gd/
+

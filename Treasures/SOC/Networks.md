@@ -232,6 +232,106 @@ Cloudflare is default Firefox DOH provider. but when looking at DOH its shows as
 
 Android uses DoT already and windows 11 will support this so blocking port 853 is warranted.  The day is coming when we will be blinded by DNS requests using TLS or HTTP make a plan now. 
 
+
+---
+## DNS Links
+
+Windows will improve user privacy with DNS over HTTPS - Microsoft Community Hub
+https://techcommunity.microsoft.com/t5/networking-blog/windows-will-improve-user-privacy-with-dns-over-https/ba-p/1014229
+
+Configuring Networks to Disable DNS over HTTPS | Firefox Help
+https://support.mozilla.org/en-US/kb/configuring-networks-disable-dns-over-https
+
+MarkBaggett/domain_stats2
+https://github.com/MarkBaggett/domain_stats2
+
+Llanfairpwllgwyngyll - Wikipedia
+https://en.wikipedia.org/wiki/Llanfairpwllgwyngyll
+
+Error 404 - File not found.
+https://www.spamhaus.org/statistics/botnet-asn/
+
+kryo.se: iodine (IP-over-DNS, IPv4 over DNS tunnel)
+https://code.kryo.se/iodine/
+
+iagox86/dnscat2
+https://github.com/iagox86/dnscat2
+
+Sophos Endpoint Security and Control: Overview of the Sophos Live Protection architecture
+https://support.sophos.com/support/s/article/KB-000033776?language=en_US
+
+yarrick/iodine: Official git repo for iodine dns tunnel
+https://github.com/yarrick/iodine
+
+stalkr.net
+https://stalkr.net/files/hack.lu/2010/9/bottle.cap
+
+OpenNIC Operated Top-Level Domains [OpenNIC Wiki]
+https://wiki.opennic.org/opennic/dot?redirect=1#peered_top-level_domains
+
+OpenNIC Operated Top-Level Domains [OpenNIC Wiki]
+https://wiki.opennic.org/opennic/dot
+
+Dot TK - Find a new FREE domain
+http://www.dot.tk/en/index.html?lang=en
+
+A Peek into Top-Level Domains and Cybercrime
+https://unit42.paloaltonetworks.com/top-level-domains-cybercrime/
+
+SEC450: SANS OnDemand
+https://ondemand-player.sans.org/12265#init
+
+RFC 1035: Domain names - implementation and specification
+https://www.rfc-editor.org/rfc/rfc1035
+
+RFC 1912: Common DNS Operational and Configuration Errors
+https://www.rfc-editor.org/rfc/rfc1912
+
+RFC 2317: Classless IN-ADDR.ARPA delegation
+https://www.rfc-editor.org/rfc/rfc2317
+
+NDR Use Cases & Network Security Use Cases | Corelight
+https://corelight.com/products/use-cases/
+
+Why Evidence-Based Network Security Matters | Corelight
+https://corelight.com/solutions/why-evidence-based-security
+
+https://twitter.com/taosecurity/status/1066377040256004096
+https://twitter.com/taosecurity/status/1066377040256004096
+
+https://twitter.com/bughuntar/status/1640962975812186112/photo/1
+https://twitter.com/bughuntar/status/1640962975812186112/photo/1
+
+The Untold Story of NotPetya, the Most Devastating Cyberattack in History | WIRED
+https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
+
+BeyondCorp Zero Trust Enterprise Security  |  Google Cloud
+https://cloud.google.com/beyondcorp/
+
+Zero Trust Networks [Book]
+https://www.oreilly.com/library/view/zero-trust-networks/9781491962183/
+
+915-3534-01-tap-vs-span-ltr.pdf
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://support.ixiacom.com/sites/default/files/resources/whitepaper/915-3534-01-tap-vs-span-ltr.pdf
+
+Latest Announcements topics - Obsidian Forum
+https://forum.obsidian.md/c/announcements/13
+
+Free online network tools - traceroute, nslookup, dig, whois lookup, ping - IPv6
+https://centralops.net/co/
+
+Software Reviews, Opinions, and Tips - DNSstuff
+https://www.dnsstuff.com/
+
+WHOIS Search, Domain Name, Website, and IP Tools - Who.is
+https://who.is/
+
+Punycode converter (IDN converter), Punycode to Unicode 🔧
+https://www.punycoder.com/
+
+---
+
+
 # HTTP
 
 Decoding a URI 
@@ -446,6 +546,133 @@ TLS 1.3 more difficult to inspect:
 - Enforces without pre-master secrets from browsers
 - Encrypted SNI standard means we will eventually lose visibility of the domain being visited without Decryption.
 
+---
+
+## HTTP LINKS
+
+Error: Page Not Found
+https://datatracker.ietf.org/doc/id/draft-camwinget-tls-use-cases-00.html#rfc.section.2.1.1
+
+Let's Encrypt
+https://letsencrypt.org/
+
+A milestone for Chrome security: marking HTTP as “not secure”
+https://www.blog.google/products/chrome/milestone-chrome-security-marking-http-not-secure/
+
+Issues · salesforce/ja3
+https://github.com/salesforce/ja3/issues?q=is%3Aissue+is%3Aclosed
+
+salesforce/ja3: JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.
+https://github.com/salesforce/ja3
+
+salesforce/jarm
+https://github.com/salesforce/jarm
+
+ChChes – Malware that Communicates with C&C Servers Using Cookie Headers - JPCERT/CC Eyes | JPCERT Coordination Center official Blog
+https://blogs.jpcert.or.jp/en/2017/02/chches-malware--93d6.html
+
+Analysis of TeleBots’ cunning backdoor | WeLiveSecurity
+https://www.welivesecurity.com/2017/07/04/analysis-of-telebots-cunning-backdoor/
+
+Base64 Encoding: A Visual Explanation - Lucidchart
+https://www.lucidchart.com/techblog/2017/10/23/base64-encoding-a-visual-explanation/
+
+Privileges and Credentials: Phished at the Request of Counsel | Mandiant
+https://www.mandiant.com/resources/blog/phished-at-the-request-of-counsel
+
+NYTimes_Attackers_Evolve_Quickly.pdf
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/NYTimes_Attackers_Evolve_Quickly.pdf
+
+Data Encoding, Technique T1132 - Enterprise | MITRE ATT&CK®
+https://attack.mitre.org/techniques/T1132/
+
+Lazarus Resurfaces, Targets Global Banks and Bitcoin Users | McAfee Blog
+https://www.mcafee.com/blogs/other-blogs/mcafee-labs/lazarus-resurfaces-targets-global-banks-bitcoin-users/
+
+Exploit kits go Cryptomining | Zscaler Blog
+https://www.zscaler.com/blogs/security-research/exploit-kits-go-cryptomining-summer-2018-edition
+
+malware-traffic-analysis.net
+https://www.malware-traffic-analysis.net/
+
+Malware-Traffic-Analysis.net - 2021-12-14 (Tuesday) - Pcap from web server with log4j attempts and lots of other probing/scanning
+https://www.malware-traffic-analysis.net/2021/12/14/index.html
+
+Malware-Traffic-Analysis.net - 2022-03-03 (Thursday) - Brazil-targeted malware infection from email
+https://www.malware-traffic-analysis.net/2022/03/03/index.html
+
+List of DynDNS Pro (Dynamic DNS) Domain Names | Dyn Help Center
+https://help.dyn.com/list-of-dyn-dns-pro-remote-access-domain-names/
+
+Cobalt Strike | Defining Cobalt Strike Components & BEACON
+https://www.mandiant.com/resources/blog/defining-cobalt-strike-components
+
+mtp-2021-0914.pdf (SECURED)
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
+
+MichaelKoczwara/Awesome-CobaltStrike-Defence: Defences against Cobalt Strike
+https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
+
+DFIRMindMaps/OSArtifacts/Windows/Cobalt Strike Lateral Movement Artifact - Based on CONTI Leak at main · AndrewRathbun/DFIRMindMaps
+https://github.com/AndrewRathbun/DFIRMindMaps/tree/main/OSArtifacts/Windows/Cobalt%20Strike%20Lateral%20Movement%20Artifact%20-%20Based%20on%20CONTI%20Leak
+
+(5) Alex Teixeira on Twitter: "Detection Engineers, how do you assess whether a data source has a good benefit-cost ratio or not? 🫰https://t.co/D0L6zpsQ3f #DetectionEngineering #EDR #XDR" / Twitter
+https://twitter.com/ateixei/status/1637751795811340288
+
+Detection Surface & the role of Endpoint Telemetry | by Alex Teixeira | Mar, 2023 | Medium
+https://ateixei.medium.com/detection-surface-the-role-of-endpoint-telemetry-861f58cf3b79
+
+security-analytics-fun-splunk-packet-capture-file-pcap_5374.pdf
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.giac.org/paper/gcia/5374/security-analytics-fun-splunk-packet-capture-file-pcap/121502
+
+RegexIt{2}oMe (@RegexIt2oMe) / Twitter
+https://twitter.com/RegexIt2oMe
+
+Free Online Tools for Looking up Potentially Malicious Websites
+https://zeltser.com/lookup-malicious-websites/
+
+ANY.RUN - Interactive Online Malware Sandbox
+https://any.run/
+
+nginx-ultimate-bad-bot-blocker/bad-user-agents.list at master · mitchellkrogza/nginx-ultimate-bad-bot-blocker
+https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/_generator_lists/bad-user-agents.list
+
+HTTP headers - HTTP | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+
+QUIC, a multiplexed transport over UDP
+https://www.chromium.org/quic/
+
+SMB over QUIC | Microsoft Learn
+https://learn.microsoft.com/en-us/windows-server/storage/file-server/smb-over-quic
+
+HTTP/1.1: Method Definitions
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.2
+
+(338) 12 Days of Defense - Day 10: How to Analyze HTTP/2 Traffic in Wireshark - YouTube
+https://www.youtube.com/watch?v=weT02x9R7wk
+
+URL and website scanner - urlscan.io
+https://urlscan.io/
+
+Website Screenshot API Generator Tools
+https://www.page2images.com/
+
+urlquery.net - Automated URL scanner
+https://urlquery.net/
+
+PhishTank | Join the fight against phishing
+https://phishtank.com/
+
+Free Automated Malware Analysis Service - powered by Falcon Sandbox
+https://hybrid-analysis.com/
+
+UserAgentString.com - Chrome version 111.0.0.0
+https://useragentstring.com/
+
+
+---
+
 # SMTP and Email
 
 ![Pasted image 20230401163516.png](../../Media/Pasted%20image%2020230401163516.png)
@@ -541,6 +768,46 @@ DMARC builds on SPF and DKIM to fix this
 	- SPF aligned: RFC5322.From matches RFC5331.MailFrom field
 	- DKIM aligned: RFC5322.From matches DKIM "d=" field
 
+---
+## SMTP Links
+
+Scapy
+https://scapy.net/
+
+Wireshark · OUI Lookup Tool
+https://www.wireshark.org/tools/oui-lookup.html
+
+How Many From: Addresses Are There? – dmarc.org
+https://dmarc.org/2016/07/how-many-from-addresses-are-there/
+
+Alexa Top Web Sites (2015-2017) – dmarc.org
+https://dmarc.org/stats/alexa-top-sites/
+
+Bypassing Network Restrictions Through RDP Tunneling | Mandiant
+https://www.mandiant.com/resources/blog/bypassing-network-restrictions-through-rdp-tunneling
+
+Chrome and Firefox Developers Aim to Remove Support for FTP
+https://www.bleepingcomputer.com/news/google/chrome-and-firefox-developers-aim-to-remove-support-for-ftp/
+
+What is a Mail User Agent (MUA)? – Validity Help Center
+https://knowledge.validity.com/hc/en-us/articles/220569547-What-is-a-Mail-User-Agent-MUA
+
+RFC 5322: Internet Message Format
+https://www.rfc-editor.org/rfc/rfc5322
+
+RFC 821: Simple Mail Transfer Protocol
+https://www.rfc-editor.org/rfc/rfc821
+
+RFC 7208: Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1
+https://www.rfc-editor.org/rfc/rfc7208#section-5.1
+
+RFC 7001: Message Header Field for Indicating Message Authentication Status
+https://www.rfc-editor.org/rfc/rfc7001
+
+RFC 7208: Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1
+https://www.rfc-editor.org/rfc/rfc7208#section-9.1
+
+---
 
 # Other Net Protocols
 

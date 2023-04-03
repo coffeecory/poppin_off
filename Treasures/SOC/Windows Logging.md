@@ -101,3 +101,39 @@ of data are you picking up?
 General tab "message" version of the log, or
 both? Does your SIEM properly parse all the
 fields?
+
+
+---
+
+Greater Visibility Through PowerShell Logging | Mandiant
+https://www.mandiant.com/resources/blog/greater-visibility
+
+Understand and use attack surface reduction (ASR) | Microsoft Learn
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/overview-attack-surface-reduction?view=o365-worldwide
+
+Using Event Viewer with AppLocker (Windows) | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/using-event-viewer-with-applocker
+
+Microsoft Defender Antivirus event IDs and error codes | Microsoft Learn
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
+
+Audit MPSSVC Rule-Level Policy Change (Windows 10) | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/audit-mpssvc-rule-level-policy-change
+
+Sysmon - Sysinternals | Microsoft Learn
+https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
+
+Defining Severity Levels - Win32 apps | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/win32/wes/defining-severity-levels
+
+Identifying the Provider - Win32 apps | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/win32/wes/identifying-the-provider
+
+Defining Events - Win32 apps | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/win32/wes/defining-events
+
+Message Text Files - Win32 apps | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/win32/eventlog/message-text-files
+
+How to get a list of XML data name elements in (Windows 10) | Microsoft Learn
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/how-to-list-xml-elements-in-eventdata

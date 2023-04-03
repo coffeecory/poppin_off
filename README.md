@@ -59,5 +59,7 @@ Upgrade Relative Links README
 
 The `Use [[Wikilinks]]` option must be turned off to use Markdown's link syntax. The point of using relative paths is also to make notes more generic, and if you are also using Wiki Links, there is no need to use relative paths.
 
+---
+
 
 

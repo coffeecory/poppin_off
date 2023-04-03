@@ -359,7 +359,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -424,7 +424,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -453,6 +453,7 @@
   },
   "active": "d5a25ce7289d5987",
   "lastOpenFiles": [
+    "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
     "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
     "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
     "Treasures/SOC/Triage and Analysis/Analysis Questions and Tactics.md",
@@ -483,7 +484,6 @@
     "Treasures/SOC/Triage and Analysis/Intrusion Discovery.md",
     "Treasures/SOC/Triage and Analysis/OPSEC Analysis.md",
     "Treasures/SOC/Triage and Analysis/Structured Analytical Techniques.md",
-    "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
     "Treasures/SOC/Blue Tools/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
     "Treasures/SOC/Endpoint logs and files/Identifying and Handling Suspicous Files.md",
     "Treasures/SOC/Triage and Analysis",

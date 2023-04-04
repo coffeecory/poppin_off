@@ -28,18 +28,32 @@
 
 ![](../../../Media/Pasted%20image%2020230402205556.png)
 
+#Alert See above IP Domain Inspection
+
+
 ![](../../../Media/Pasted%20image%2020230402205608.png)
+
+#Alert Ports IRC 
+
 
 ![](../../../Media/Pasted%20image%2020230402205619.png)
 
+
+#Alert  TlS see above
+
+
 ![](../../../Media/Pasted%20image%2020230402205634.png)
 
+#Alert  Protocol Metadata and Content
 
 ![](../../../Media/Pasted%20image%2020230402205650.png)
 
+#Alert  Email based
 
 ![](../../../Media/Pasted%20image%2020230402205702.png)
 
+
+#Alert 
 
 ![](../../../Media/Pasted%20image%2020230402205714.png)
 
@@ -59,6 +73,8 @@
 
 
 ![](../../../Media/Pasted%20image%2020230402205831.png)
+
+#Alert Email Compromise Detection
 
 ![](../../../Media/Pasted%20image%2020230402205843.png)
 

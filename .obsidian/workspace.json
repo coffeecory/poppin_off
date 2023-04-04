@@ -359,7 +359,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
+                "file": "Treasures/SOC/Triage and Analysis/Structured Analytical Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -424,7 +424,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
+                "file": "Treasures/SOC/Triage and Analysis/Structured Analytical Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -453,10 +453,10 @@
   },
   "active": "d5a25ce7289d5987",
   "lastOpenFiles": [
+    "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
     "Treasures/SOC/Triage and Analysis/Analysis Questions and Tactics.md",
     "README.md",
     "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
-    "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
     "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
     "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
     "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",

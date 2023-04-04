@@ -359,7 +359,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Triage and Analysis/OPSEC Analysis.md",
+                "file": "Treasures/SOC/Triage and Analysis/Intrusion Discovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -424,7 +424,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/Triage and Analysis/OPSEC Analysis.md",
+                "file": "Treasures/SOC/Triage and Analysis/Intrusion Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -453,14 +453,14 @@
   },
   "active": "d5a25ce7289d5987",
   "lastOpenFiles": [
+    "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
+    "Treasures/SOC/Triage and Analysis/OPSEC Analysis.md",
     "Treasures/SOC/Triage and Analysis/Analysis Questions and Tactics.md",
     "Treasures/SOC/Triage and Analysis/Incident Closing and Quality Review.md",
     "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
-    "Treasures/SOC/Triage and Analysis/OPSEC Analysis.md",
     "Treasures/SOC/Triage and Analysis/Structured Analytical Techniques.md",
     "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
     "README.md",
-    "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
     "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
     "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",
     "Treasures/SOC/Endpoint logs and files",

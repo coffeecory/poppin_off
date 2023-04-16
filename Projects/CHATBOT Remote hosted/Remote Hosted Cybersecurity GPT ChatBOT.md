@@ -227,12 +227,12 @@ echo $gpt_api_key
 
 Make sure you modified your code to import os and use os.environ['Your_key']
 
-You can run the app from here but this is where you will get locked out from link sharing after 72 hours. Meaning the site goes down after 72 hours so you will need to write automation to run a cron job get the output of the running on public URL cmdline output and email to any users/friends that are intrested in your chatbots. 
+You can run the app from here but this is where you will get locked out from link sharing after 72 hours. Meaning the site goes down after 72 hours so you will need to write automation to run a cron job get the output of the running on public URL cmdline output and email to any users/friends that are intrested in your chatbots you stand up. OR figure out how to make the session persist using huggingface spaces.
 
 Running on public URL: 
 "This share link expires in 72 hours. For free permanent hosting and GPU upgrades (NEW!), check out Spaces: https://huggingface.co/spaces"
 
-Currently I have created an account on Huggingface.co and linked my local repo the code space there. To do so yourself...
+Currently I have created an account on Huggingface.co and linked my local repo to the code space there. You should do so yourself...
 
 Open a new VS Code window and and clone your newly created huggingface repo to your local machine.  It will prompt you for user name and login.
 

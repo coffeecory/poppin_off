@@ -216,7 +216,7 @@ Copy and paste the url into the clone git repo command pallete if you used the A
 
 #### Set Local Environment Variables for the Remote Machine
 
-Now you can set your local variables using a .env and .gitignore files or by setting it for the that instance via the VSCode Terminal.
+Now you can set your local variables using a .env and .gitignore files or by setting it for that particular instance via the VSCode Terminal.
 
 ```Bash
 //Set key to environment variables

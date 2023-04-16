@@ -131,7 +131,7 @@ https://stackoverflow.com/questions/24158177/ssh-is-not-recognized-as-an-interna
 
 You can also use PuTTY as well just remember to select the .pek instead .pem private key in AWS secret keys creation menu. 
 
-The AWS ssh connection command can be found under connect tab in the instance summary for your chatbot server
+The AWS ssh connection command can be found under the, "connect" tab in the instance summary for your chatbot server
 
 ![](../../Media/Pasted%20image%2020230416123226.png)
 

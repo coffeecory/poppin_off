@@ -29,14 +29,14 @@ GPT = Generative Pre-Trained Transformer
 
 "Allows for a small amount of input text to generate large volumns and relevant and sophisticated machine generated content" - Dr. Alex Young - [Is This The FUTURE Of Note-Taking? (ChatGPT For Studying) - YouTube](https://www.youtube.com/watch?v=YN1yeis37G0)
 
-### Start by coding the Chatbot Locally 
+### NOTE: If you havn't installed VScode on your local machine follow the guide below as you will need VS Code fully setup with python for to start this guide.
+[(429) How to setup Python for VSCode in 2023 in 5mins! | Install Python and Setup VSCode for Windows 10 - YouTube](https://www.youtube.com/watch?v=cUAK4x_7thA)
+
+## Start by coding the Chatbot Locally 
 
 Once VS Code is installed and python dev environment is setup then continue 
 [(425) ChatGPT in Python for Beginners - Build A Chatbot - YouTube](https://www.youtube.com/watch?v=pGOyw_M1mNE)
 -   <a class="youtubeTimestamp" href="https://www.youtube.com/watch?v=pGOyw_M1mNE&t=623">10:23</a>
-
-### NOTE: If you havn't installed VScode on your local machine see 
-[(429) How to setup Python for VSCode in 2023 in 5mins! | Install Python and Setup VSCode for Windows 10 - YouTube](https://www.youtube.com/watch?v=cUAK4x_7thA)
 
 This code will need to be modified, you dont want to store you api_keys in your code in clear text. 
 

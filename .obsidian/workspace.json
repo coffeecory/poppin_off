@@ -8,130 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9657aae91f9d8e19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa664140c008fa7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "624aaf947931277c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TALKS/sansBlueTeamSummit/Bits and pieces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "596df726b81d895d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a28f616f9ffc975",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "60ff61f009858a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Red Team/Recon/Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "256aa5b2704eb619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blue Team/Investigations/Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f05cab89bca6455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corp Tricks/Slides/Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da144aab4b6744f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GPT/API/API's for Security Automation Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c868728076c9a41a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GPT/API/Python Virus Total API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c2551ddbc9b15763",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPT/Links and Resources.md",
+                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,33 +54,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "573c5826e9ac55c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04ef45d77de93721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,11 +140,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "04ef45d77de93721",
+  "active": "c2551ddbc9b15763",
   "lastOpenFiles": [
+    "GPT/Chabots/ChatGPT in Python for Beginners - Build A Chatbot.md",
+    "IR_resources/resources.md",
+    "Blue Team/Investigations/Resources.md",
+    "Corp Tricks/Slides/Resources.md",
+    "Media/Pasted image 20230205133818.png",
+    "Media/Pasted image 20230409113721.png",
+    "Media/Pasted image 20230405190241.png",
+    "Media/Pasted image 20230405190251.png",
+    "Media/Pasted image 20230405190301.png",
+    "Media/Pasted image 20230405190311.png",
+    "Media/Pasted image 20230408120038.png",
+    "Media/Pasted image 20230408170225.png",
+    "Media/Pasted image 20230408152752.png",
+    "Media/Pasted image 20230408152733.png",
+    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+    "README.md",
     "training/SOC/Continuous Improvement, Analytics, and Automation/1- Improving Life in the SOC.md",
     "training/SOC/Continuous Improvement, Analytics, and Automation/2- Analytic Features and Enrichment.md",
-    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
     "Obsidian_Info/Links.md",
     "Obsidian_Info",
     "Untitled/Links.md",
@@ -307,11 +179,6 @@
     "training/SOC/Endpoint logs and files/Important Events.md",
     "training/SOC/Endpoint logs and files/File Contents and Identification.md",
     "training/SOC/Endpoint logs and files/Identifying and Handling Suspicous Files.md",
-    "training/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
-    "training/SOC/Labs/Win Event Logs.md",
-    "training/SOC/Labs/Structured Analysis Challenge.md",
-    "training/SOC/Labs/Security Automation.md",
-    "training/SOC/Labs/Malicous File ID.md",
     "training/SOC/Triage and Analysis",
     "training/SOC/Networks",
     "training/SOC/Endpoint logs and files",
@@ -320,16 +187,6 @@
     "training/SOC/Continuous Improvement, Analytics, and Automation",
     "training/SOC",
     "training",
-    "PWSH",
-    "Media/Pasted image 20230416132505.png",
-    "Media/Pasted image 20230416130256.png",
-    "Media/Pasted image 20230416130156.png",
-    "Media/Pasted image 20230416125454.png",
-    "Media/Pasted image 20230416125407.png",
-    "Media/Pasted image 20230416123758.png",
-    "Media/Pasted image 20230416123753.png",
-    "Media/Pasted image 20230416123246.png",
-    "Media/Pasted image 20230416123226.png",
-    "Media/Pasted image 20230416114951.png"
+    "PWSH"
   ]
 }

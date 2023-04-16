@@ -1,5 +1,5 @@
 
-Code the chatbot using 
+## Code the Chatbot Locally 
 
 [(425) ChatGPT in Python for Beginners - Build A Chatbot - YouTube](https://www.youtube.com/watch?v=pGOyw_M1mNE)
 -   <a class="youtubeTimestamp" href="https://www.youtube.com/watch?v=pGOyw_M1mNE&t=623">10:23</a>
@@ -21,6 +21,8 @@ For GPT 4 its
 ![](../../Media/Pasted%20image%2020230416114951.png)
 
 we are using GPT-3.5-Turbo
+
+### Set Environment Variables
 
 Set your api_key as environment variables either using local instance export commands that do not persist the current terminal session.
 
@@ -73,11 +75,16 @@ openai.api_key = "gpt_api_key"
 
 once testing is complete locally we now want to spin up a cloud server where you can deploy this code and other bits of code on a resource that is not attached to your local network. If you have a lab it's ideal to set it up on a stand alone server or docker container to replicate.
 
+# Setting up EC2 Instance for Web Hosting MyCyberHelper Chatbot
+
 First we want to install AWS EC2 instance of your choice. I chose Ubuntu and had struggles in the beggining with spinning up the Ubuntu-desktop gui using the free tier. I decided to spin up a bit beefier server using the below article as pricing guide.
 https://dev.to/cindyledev/remote-development-with-visual-studio-code-on-aws-ec2-4cla
 
-Follow this guide for spinning up the EC2 instance but change the server Instance type as you wish. There is a way to spin this up without a gui which i will be working on at a later date. Refrence to that method will be below.
+Follow this guide for spinning up the EC2 instance but change the server Instance type as you wish. There is a way to spin this up without a gui which i will be working on at a later date. Refrence to that method will be below. #FutureProject
 https://medium.com/nerd-for-tech/how-to-create-a-ubuntu-20-04-server-on-aws-ec2-elastic-cloud-computing-5b423b5bf635
+
+
+#### SSH into the EC2 Instance
 
 Once Instance is running connect to the instance over SSH, I had windows terminal issues and had to trouble shoot using the following guides. 
 https://stackoverflow.com/questions/57363597/how-to-use-a-new-windows-terminal-app-for-ssh
@@ -96,10 +103,11 @@ The AWS ssh connection command can be found under connect tab in the instance su
 
 	ssh -i "~/.ssh/authorized_keys/your_private_key.pem" ubuntu@aws_server_dns_srv_addr.amazonaws.com
 
+### Configure the Ubuntu Machine for RDP, Setup GUI, Change Password, Modify Ubuntu System for RDP connection Speed issue on free tier instances, Install VS Code, Update && Upgrade and run.
+
 Now your connected to your server we need to run the following commands
 
 ```bash
-reboot
 sudo apt update && sudo apt upgrade
 sudo apt install xrdp
 sudo systemctl status xrdp
@@ -122,6 +130,9 @@ code --version
 sudo apt update && sudo apt upgrade -y
 code
 ```
+
+
+### Setup Dev Environment for Python, Git, OpenAI, Gradio,GitHub and Huggingface Spaces
 
 Once you up and running and code is started we need to setup our dev environment
 
@@ -167,6 +178,8 @@ Copy and paste the url into the clone git repo command pallete if you used the A
 
 ![](../../Media/Pasted%20image%2020230416130256.png)
 
+#### Set Local Environment Variables for the Remote Machine
+
 Now you can set your local variables using a .env and .gitignore files or by setting it for the that instance via the VSCode Terminal.
 
 ```Bash
@@ -189,7 +202,7 @@ Open a new VS Code window and and clone your newly created huggingface repo to y
 
 Now transfer your code from your local github repo or the AIAdvantage modified code repo and paste it into a newly created python file under the huggingface workspace. You may need to transfer .gitignore and .env over as well. If you used local variables from export then run that command in the terminal again. 
 
-Now you can commit the code changes back up to the remote repo. 
+Now you can commit the code changes back up to the newly created Hugging Face remote repo. 
 
 #### Note: Its wise to use the same username for both huggingfaces and GitHub so when you commit git uses the same email and user name paramaters.
 
@@ -197,6 +210,8 @@ Now you can commit the code changes back up to the remote repo.
 git config --global user.email "your.email@gmail.com"
 git config --global user.name "your-username"
 ```
+
+### Commiting Code changes to the Remote Repo
 
 Once that is set you can use source control to commit or use bash terminal 
 
@@ -214,9 +229,18 @@ If you see an error look under the logging OUTPUT tab for the cuase of the issue
 
 You are now all set to run your Code and then share out the link for the 72 hour limit.
 
+## Get Gradio link to persist longer than 72 hours on huggingface spaces 
+
+#FutureProject 
 Im working on a solution for hosting gradio on huggingface spaces and that will be coming out soon. Written on 4/16/2023.
 
-Additonal Resources:
+Showcase Your Projects in Spaces using Gradio
+https://huggingface.co/blog/gradio-spaces
+
+Sharing demos with others - Hugging Face Course
+https://huggingface.co/course/chapter9/4?fw=pt
+
+## Additonal Resources:
 
 This didnt work well for me.
 
@@ -224,10 +248,6 @@ This didnt work well for me.
 -   <a class="youtubeTimestamp" href="https://www.youtube.com/watch?v=ndA4atuCqms&t=567">9:27</a>
 
 https://cloudzy.com/knowledge-base/copy-paste-not-working-in-rdp/
-
-https://huggingface.co/course/chapter9/4?fw=pt
-
-https://huggingface.co/blog/gradio-spaces
 
 [AWS EC2 SSH key management | How to launch and SSH into EC2 instance with public & private key pair - YouTube](https://www.youtube.com/watch?v=S5B09dq-jGQ)
 

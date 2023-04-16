@@ -61,5 +61,10 @@ The `Use [[Wikilinks]]` option must be turned off to use Markdown's link synta
 
 ---
 
+Searchable hashtags
+
+#FutureProject 
+
+
 
 

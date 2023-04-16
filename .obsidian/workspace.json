@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "3e26ee87b853e82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/PWSH/Powershell Grep - Select-String.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3a28f616f9ffc975",
             "type": "leaf",
             "state": {
@@ -78,295 +66,139 @@
             }
           },
           {
-            "id": "4606d4a9cd483968",
+            "id": "60ff61f009858a59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Blue Tools/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
+                "file": "Red Team/Recon/Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3b80ec2a65a21390",
+            "id": "256aa5b2704eb619",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Networks/Networks.md",
+                "file": "Blue Team/Investigations/Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a9f752e69ab7b356",
+            "id": "3f05cab89bca6455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
+                "file": "Corp Tricks/Slides/Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ed3a0f1ba62a34fe",
+            "id": "da144aab4b6744f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Endpoint logs and files/Windows Logging.md",
+                "file": "GPT/API/API's for Security Automation Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7377fa853447008d",
+            "id": "c868728076c9a41a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Endpoint logs and files/Linux Logging.md",
+                "file": "GPT/API/Python Virus Total API.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b32f135589b9863d",
+            "id": "c2551ddbc9b15763",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Endpoint logs and files/Important Events.md",
+                "file": "GPT/Links and Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "575b51fcd53f2c1e",
+            "id": "35f5c2fb28df8e5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Endpoint logs and files/Log Collection, Parsing, Normalization.md",
+                "file": "API/env variables/Store & manage secrets like API keys in Python - Tech Tip Tuesdays.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e51860e273f62ee1",
+            "id": "f5ba0107624e5264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Endpoint logs and files/File Contents and Identification.md",
+                "file": "GPT/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07386847b55e4304",
+            "id": "a10393df4db1405d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Endpoint logs and files/Identifying and Handling Suspicous Files.md",
+                "file": "GPT/Chabots/ChatGPT in Python for Beginners - Build A Chatbot.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97d76ae0e3697a3a",
+            "id": "573c5826e9ac55c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
+                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c3378a9cb4f16ad8",
+            "id": "04ef45d77de93721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59bdc0ac6d7ed3e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b20ae9eb507fc96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Structured Analytical Techniques.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1bb425fda77d8e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Analysis Questions and Tactics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac51a6df3af75312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Triage and Analysis/OPSEC Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "537cf2b51bab9d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Intrusion Discovery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "078309735d4277a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Incident Closing and Quality Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "648d665b734105f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Improving Life in the SOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2e282d5c54a9984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Analytic Features and Enrichment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "861f274cef3a1866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/New Analytic Design, Testing, and Sharing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cae60b8cd315798f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Tuning and False Positive Reduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08a82b138c669277",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Automation and Orchestration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b66ed51ced97e7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Containing Indentified Intrusions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5a25ce7289d5987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Intrusion Discovery.md",
+                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -424,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treasures/SOC/Triage and Analysis/Intrusion Discovery.md",
+                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -451,48 +283,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d5a25ce7289d5987",
+  "active": "04ef45d77de93721",
   "lastOpenFiles": [
-    "Treasures/SOC/Triage and Analysis/Alert Triage and Prioritization.md",
-    "Treasures/SOC/Triage and Analysis/OPSEC Analysis.md",
-    "Treasures/SOC/Triage and Analysis/Analysis Questions and Tactics.md",
-    "Treasures/SOC/Triage and Analysis/Incident Closing and Quality Review.md",
-    "Treasures/SOC/Triage and Analysis/Models Concepts for Infosec.md",
-    "Treasures/SOC/Triage and Analysis/Structured Analytical Techniques.md",
-    "Treasures/SOC/Triage and Analysis/Perception, Memory, and Investigation.md",
-    "README.md",
-    "Treasures/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
-    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Skill and Career Development.md",
-    "Treasures/SOC/Endpoint logs and files",
-    "Treasures/SOC/Blue Tools",
-    "Treasures/SOC/Networks",
-    "Treasures/Untitled",
-    "Media/Pasted image 20230402214703.png",
-    "Media/Pasted image 20230402214655.png",
-    "Media/Pasted image 20230402214638.png",
-    "Media/Pasted image 20230402214628.png",
-    "Media/Pasted image 20230402214618.png",
-    "Media/Pasted image 20230402214611.png",
-    "Media/Pasted image 20230402214558.png",
-    "Media/Pasted image 20230402214549.png",
-    "Media/Pasted image 20230402214537.png",
-    "Media/Pasted image 20230402214526.png",
-    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Containing Indentified Intrusions.md",
-    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Automation and Orchestration.md",
-    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Tuning and False Positive Reduction.md",
-    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/New Analytic Design, Testing, and Sharing.md",
-    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Analytic Features and Enrichment.md",
-    "Treasures/SOC/Continuous Improvement, Analytics, and Automation/Improving Life in the SOC.md",
-    "Treasures/SOC/Continuous Improvement, Analytics, and Automation",
-    "Treasures/SOC/Triage and Analysis/Intrusion Discovery.md",
-    "Treasures/SOC/Blue Tools/SIEM, SOAR, UseCase, Conti, Threat Actors.md",
-    "Treasures/SOC/Endpoint logs and files/Identifying and Handling Suspicous Files.md",
-    "Treasures/SOC/Triage and Analysis",
-    "Treasures/SOC/Endpoint logs and files/Important Events.md",
-    "Treasures/SOC/Networks/Networks.md",
-    "Treasures/SOC/Endpoint logs and files/Windows Logging.md",
-    "Treasures/SOC/Endpoint logs and files/File Contents and Identification.md",
-    "Treasures/SOC/Endpoint logs and files/Log Collection, Parsing, Normalization.md",
-    "Treasures/SOC/Endpoint logs and files/Linux Logging.md"
+    "training/SOC/Continuous Improvement, Analytics, and Automation/1- Improving Life in the SOC.md",
+    "training/SOC/Continuous Improvement, Analytics, and Automation/2- Analytic Features and Enrichment.md",
+    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+    "Obsidian_Info/Links.md",
+    "Obsidian_Info",
+    "Untitled/Links.md",
+    "Links.md",
+    "training/SOC/Triage and Analysis/8- Incident Closing and Quality Review.md",
+    "training/SOC/Triage and Analysis/7- Intrusion Discovery.md",
+    "training/SOC/Triage and Analysis/5- Analysis Questions and Tactics.md",
+    "training/SOC/Triage and Analysis/6- OPSEC Analysis.md",
+    "training/SOC/Triage and Analysis/4- Structured Analytical Techniques.md",
+    "training/SOC/Triage and Analysis/3- Models Concepts for Infosec.md",
+    "training/SOC/Triage and Analysis/2- Perception, Memory, and Investigation.md",
+    "training/SOC/Triage and Analysis/1- Alert Triage and Prioritization.md",
+    "training/SOC/Networks/Networks.md",
+    "training/SOC/Endpoint logs and files/Windows Logging.md",
+    "training/SOC/Endpoint logs and files/Log Collection, Parsing, Normalization.md",
+    "training/SOC/Endpoint logs and files/Linux Logging.md",
+    "training/SOC/Endpoint logs and files/Important Events.md",
+    "training/SOC/Endpoint logs and files/File Contents and Identification.md",
+    "training/SOC/Endpoint logs and files/Identifying and Handling Suspicous Files.md",
+    "training/SOC/Endpoint logs and files/Endpoints, Logs, and Files.md",
+    "training/SOC/Labs/Win Event Logs.md",
+    "training/SOC/Labs/Structured Analysis Challenge.md",
+    "training/SOC/Labs/Security Automation.md",
+    "training/SOC/Labs/Malicous File ID.md",
+    "training/SOC/Triage and Analysis",
+    "training/SOC/Networks",
+    "training/SOC/Endpoint logs and files",
+    "training/SOC/Labs",
+    "training/SOC/Blue Tools",
+    "training/SOC/Continuous Improvement, Analytics, and Automation",
+    "training/SOC",
+    "training",
+    "PWSH",
+    "Media/Pasted image 20230416132505.png",
+    "Media/Pasted image 20230416130256.png",
+    "Media/Pasted image 20230416130156.png",
+    "Media/Pasted image 20230416125454.png",
+    "Media/Pasted image 20230416125407.png",
+    "Media/Pasted image 20230416123758.png",
+    "Media/Pasted image 20230416123753.png",
+    "Media/Pasted image 20230416123246.png",
+    "Media/Pasted image 20230416123226.png",
+    "Media/Pasted image 20230416114951.png"
   ]
 }

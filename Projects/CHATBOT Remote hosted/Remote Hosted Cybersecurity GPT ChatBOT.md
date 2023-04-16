@@ -1,8 +1,38 @@
 
-## Code the Chatbot Locally 
+# Remote Hosted Cybersecurity GPT ChatBOT Named "MyCybersecHelper"
 
+This markdown guide goes into deep detail on how to Code a GPT Chatbot using your local VSCode as a test bed AWS Ubuntu VM, VScode, Openai (GPT 3.5), gradio ML python module  leveraging gradio app tunneled through hugginface spaces repository. (Persistent sharable Gradio links is still a work in progress.)
+
+This guide also assists users with: 
+- SSH to EC2 Instance
+- RDP to Remote Instance
+- Installing GUI instances from Ubuntu Server mode
+- Install VS Code
+- Change python code to use secure code by setting environment variables 
+- Setup .env files 
+- Setup .gitignore files 
+- Install python 
+- Setup VS code for python dev environment 
+- Clone respositories to your local host
+- Setup Git 
+- Commit Git Files
+- Pull code changes to remote repositories
+- Setting up Hugginface spaces
+- Learning GPT API
+- Learning to Customize GPT Chatbot assigning custom GPT language models (Act like Cybersecurity Engineer when answering questions.)
+- Setup a local instance of the Chatbot and not share it out using HuggingFaces.
+- And more...
+
+
+
+### Start by coding the Chatbot Locally 
+
+Once VS Code is installed and python dev environment is setup then continue 
 [(425) ChatGPT in Python for Beginners - Build A Chatbot - YouTube](https://www.youtube.com/watch?v=pGOyw_M1mNE)
 -   <a class="youtubeTimestamp" href="https://www.youtube.com/watch?v=pGOyw_M1mNE&t=623">10:23</a>
+
+### NOTE: If you havn't installed VScode on your local machine see 
+[(429) How to setup Python for VSCode in 2023 in 5mins! | Install Python and Setup VSCode for Windows 10 - YouTube](https://www.youtube.com/watch?v=cUAK4x_7thA)
 
 This code will need to be modified, you dont want to store you api_keys in your code in clear text. 
 

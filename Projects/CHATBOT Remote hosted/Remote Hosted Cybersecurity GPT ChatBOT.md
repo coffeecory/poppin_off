@@ -58,7 +58,7 @@ we are using GPT-3.5-Turbo
 
 ### Set Environment Variables
 
-Set your api_key as environment variables either using local instance export commands that do not persist the current terminal session or using .env and .gitignore files
+Set your api_key as environment variables either using local instance export commands that do not persist the current terminal session or using .env and .gitignore files.
 
 ```bash
 echo gpt_api_key
@@ -76,7 +76,7 @@ openai.api_key =  os.environ["gpt_api_key"]
 
 Test the Bot locally 
 
-Another method of storing the variable is by using .env folder that you need to remember to .gitignore. The code for that modification is as follows. https://blog.gitguardian.com/how-to-handle-secrets-in-python/
+Again, another method of storing the variable is by using .env folder that you need to remember to .gitignore. The code for that modification is as follows. https://blog.gitguardian.com/how-to-handle-secrets-in-python/
 https://www.toptal.com/developers/gitignore/
 
 ```Python

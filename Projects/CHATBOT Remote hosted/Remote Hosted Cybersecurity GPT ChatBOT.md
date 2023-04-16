@@ -29,7 +29,7 @@ GPT = Generative Pre-Trained Transformer
 
 "Allows for a small amount of input text to generate large volumns and relevant and sophisticated machine generated content" - Dr. Alex Young - [Is This The FUTURE Of Note-Taking? (ChatGPT For Studying) - YouTube](https://www.youtube.com/watch?v=YN1yeis37G0)
 
-### NOTE: If you havn't installed VScode on your local machine follow the guide below as you will need VS Code fully setup with python for to start this guide.
+### NOTE: If you havn't installed VScode on your local machine follow the guide below as you will need VS Code fully setup with python to start this guide.
 [(429) How to setup Python for VSCode in 2023 in 5mins! | Install Python and Setup VSCode for Windows 10 - YouTube](https://www.youtube.com/watch?v=cUAK4x_7thA)
 
 ## Start by coding the Chatbot Locally 

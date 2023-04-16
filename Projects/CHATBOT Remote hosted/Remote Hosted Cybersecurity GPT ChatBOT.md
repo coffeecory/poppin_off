@@ -25,6 +25,9 @@ This guide also assists users with:
 
 #### Current working link: https://90d0316515f44c883c.gradio.live
 
+GPT = Generative Pre-Trained Transformer 
+
+"Allows for a small amount of input text to generate large volumns and relevant and sophisticated machine generated content" - Dr. Alex Young - [Is This The FUTURE Of Note-Taking? (ChatGPT For Studying) - YouTube](https://www.youtube.com/watch?v=YN1yeis37G0)
 
 ### Start by coding the Chatbot Locally 
 

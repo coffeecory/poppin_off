@@ -232,7 +232,9 @@ You can run the app from here but this is where you will get locked out from lin
 Running on public URL: 
 "This share link expires in 72 hours. For free permanent hosting and GPU upgrades (NEW!), check out Spaces: https://huggingface.co/spaces"
 
-Currently I have created an account on Huggingface.co and linked my local repo to the code space there. You should do so yourself...
+Currently I have created an account on Huggingface.co and linked my local repo to the code space there. You should do so yourself... as described below.
+
+### Creating, Cloning HuggingFace Spaces Repo
 
 Open a new VS Code window and and clone your newly created huggingface repo to your local machine.  It will prompt you for user name and login.
 
@@ -247,7 +249,7 @@ git config --global user.email "your.email@gmail.com"
 git config --global user.name "your-username"
 ```
 
-### Commiting Code changes to the Remote Repo
+### Commiting Code changes to the Remote HuggingFace Repo
 
 Once that is set you can use source control to commit or use bash terminal 
 

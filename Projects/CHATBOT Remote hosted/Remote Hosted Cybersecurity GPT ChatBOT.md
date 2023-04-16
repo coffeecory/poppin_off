@@ -210,7 +210,7 @@ https://github.com/AIAdvantage/chatgpt-api-youtube
 
 ![](../../Media/Pasted%20image%2020230416125454.png)
 
-Copy and paste the url into the clone git repo command pallete if you used the AIAdvantage repo then you will need to copy and paste your code from your machine over the top of his for the chatgpt chat assitant website.
+Copy and paste the url into the clone git repo command pallete if you used the AIAdvantage repo then you will need to copy and paste your code from your machine over the top of his for the chatgpt chat assitant website.py file.
 
 ![](../../Media/Pasted%20image%2020230416130256.png)
 

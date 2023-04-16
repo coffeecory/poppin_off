@@ -168,11 +168,11 @@ code
 ```
 
 
-### Setup Dev Environment for Python, Git, OpenAI, Gradio,GitHub and Huggingface Spaces
+### Setup Dev Environment in VS Code for Python, Git, OpenAI, Gradio,GitHub and Huggingface Spaces
 
 Once you up and running and code is started we need to setup our dev environment
 
-Go to the extensions tab and install 
+Go to the extensions tab in VS Code and install 
 - Python
 - Python extensions pack 
 - Git-lens 

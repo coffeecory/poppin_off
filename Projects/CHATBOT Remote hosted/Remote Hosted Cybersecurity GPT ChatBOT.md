@@ -129,7 +129,7 @@ https://stackoverflow.com/questions/24158177/ssh-is-not-recognized-as-an-interna
 I just uninstalled and reinstalled the OpenSSH "Client" package and then restarted my terminal and SSH was working perfectly. I could have modified the settings.json and set the path to OpenSSH.  Also you can uninstall and resinstall using
 https://stackoverflow.com/questions/24158177/ssh-is-not-recognized-as-an-internal-or-external-command#:~:text=Start%20%3E%20type%20%27Manage%20Optional%20Features%27
 
-You can also use PuTTY as well just to select the pek instead pem private key in AWS secret keys creation menu. 
+You can also use PuTTY as well just remember to select the .pek instead .pem private key in AWS secret keys creation menu. 
 
 The AWS ssh connection command can be found under connect tab in the instance summary for your chatbot server
 

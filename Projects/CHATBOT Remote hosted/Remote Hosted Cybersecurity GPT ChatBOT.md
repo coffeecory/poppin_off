@@ -58,7 +58,7 @@ we are using GPT-3.5-Turbo
 
 ### Set Environment Variables
 
-Set your api_key as environment variables either using local instance export commands that do not persist the current terminal session.
+Set your api_key as environment variables either using local instance export commands that do not persist the current terminal session or using .env and .gitignore files
 
 ```bash
 echo gpt_api_key

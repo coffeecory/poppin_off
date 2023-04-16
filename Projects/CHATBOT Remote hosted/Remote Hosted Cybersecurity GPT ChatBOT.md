@@ -217,7 +217,9 @@ You are now all set to run your Code and then share out the link for the 72 hour
 Im working on a solution for hosting gradio on huggingface spaces and that will be coming out soon. Written on 4/16/2023.
 
 Additonal Resources:
+
 This didnt work well for me.
+
 [(426) How to Connect to Remote AWS EC2 Ubuntu GUI from Local Windows Machine - YouTube](https://www.youtube.com/watch?v=ndA4atuCqms)
 -   <a class="youtubeTimestamp" href="https://www.youtube.com/watch?v=ndA4atuCqms&t=567">9:27</a>
 

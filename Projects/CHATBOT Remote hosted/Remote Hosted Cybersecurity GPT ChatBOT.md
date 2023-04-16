@@ -255,7 +255,7 @@ Once that is set you can use source control to commit or use bash terminal
 
 ![](../../Media/Pasted%20image%2020230416132505.png)
 
-When you commit and sync your changes you will prompted to enter a username and password for the remote repo in the command pallete at the top of VS Code window.
+When you commit and sync your changes you will be prompted to enter a username and password for the remote repo in the command pallete at the top of VS Code window.
 
 [How To Git Commit And Push Changes - YouTube](https://www.youtube.com/watch?v=9DHjfDuXMGA)
 

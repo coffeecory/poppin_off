@@ -76,7 +76,7 @@ openai.api_key =  os.environ["gpt_api_key"]
 
 Test the Bot locally 
 
-Again, another method of storing the variable is by using .env fil that you need to remember to .gitignore. The code for that modification is as follows. https://blog.gitguardian.com/how-to-handle-secrets-in-python/
+Again, another method of storing the variable is by using .env file that you need to remember to .gitignore. The code for that modification is as follows. https://blog.gitguardian.com/how-to-handle-secrets-in-python/
 https://www.toptal.com/developers/gitignore/
 
 ```Python
@@ -107,7 +107,7 @@ gpt_api_key = os.getenv("gpt_api_key")
 openai.api_key = "gpt_api_key"
 ```
 
-once testing is complete locally we now want to spin up a cloud server where you can deploy this code and other bits of code on a resource that is not attached to your local network. If you have a lab it's ideal to set it up on a stand alone server or docker container to replicate.
+once testing is complete locally we now want to spin up a cloud server where you can deploy this code and other bits of code on a resource that is not attached to your local network. Whoever it's still ideal If you have a lab environment to set it up on a stand alone server or docker container to replicate.
 
 # Setting up EC2 Instance for Web Hosting MyCyberHelper Chatbot
 

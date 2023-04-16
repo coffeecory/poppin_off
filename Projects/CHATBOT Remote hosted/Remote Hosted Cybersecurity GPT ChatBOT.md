@@ -238,7 +238,7 @@ Currently I have created an account on Huggingface.co and linked my local repo t
 
 Open a new VS Code window and and clone your newly created huggingface repo to your local machine.  It will prompt you for user name and login.
 
-Now transfer your code from your local github repo or the AIAdvantage modified code repo and paste it into a newly created python file under the huggingface workspace. You may need to transfer .gitignore and .env over as well. If you used local variables from export then run that command in the terminal again. 
+Now transfer your code from your local github workspace or the local AIAdvantage modified code workspace, whatever you decided to do, and paste it into a newly created python file under the huggingface workspace. You may need to transfer .gitignore and .env over as well. If you used local variables from export then run that command in the terminal again. 
 
 Now you can commit the code changes back up to the newly created Hugging Face remote repo. 
 

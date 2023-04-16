@@ -114,7 +114,9 @@ once testing is complete locally we now want to spin up a cloud server where you
 First we want to install AWS EC2 instance of your choice. I chose Ubuntu and had struggles in the beggining with spinning up the Ubuntu-desktop gui using the free tier. I decided to spin up a bit beefier server using the below article as pricing guide.
 https://dev.to/cindyledev/remote-development-with-visual-studio-code-on-aws-ec2-4cla
 
-Follow this guide for spinning up the EC2 instance but change the server Instance type as you wish. There is a way to spin this up without a gui which i will be working on at a later date. Refrence to that method will be below. #FutureProject
+Follow this guide for spinning up the EC2 instance but change the server Instance type as you wish. Although there is a way to spin up the ubuntu server without a gui to get this running I did not use that method. I will be working and adding that into this guide at a later date. #FutureProject
+
+Reference to spinning up the free tier server method: 
 https://medium.com/nerd-for-tech/how-to-create-a-ubuntu-20-04-server-on-aws-ec2-elastic-cloud-computing-5b423b5bf635
 
 

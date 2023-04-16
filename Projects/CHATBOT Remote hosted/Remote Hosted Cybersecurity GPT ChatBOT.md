@@ -1,9 +1,11 @@
 
 Code the chatbot using 
+
 [(425) ChatGPT in Python for Beginners - Build A Chatbot - YouTube](https://www.youtube.com/watch?v=pGOyw_M1mNE)
 -   <a class="youtubeTimestamp" href="https://www.youtube.com/watch?v=pGOyw_M1mNE&t=623">10:23</a>
 
 This code will need to be modified, you dont want to store you api_keys in your code in clear text. 
+
 https://github.com/AIAdvantage/chatgpt-api-youtube
 https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
 
@@ -53,7 +55,8 @@ if __name__ == "__main__":
 	main()
 ```
 
-or another way that I couldn't quite get working https://www.python-engineer.com/posts/dotenv-python/
+or another way that I couldn't quite get working 
+https://www.python-engineer.com/posts/dotenv-python/
 
 ```Python
 import os
@@ -72,11 +75,9 @@ First we want to install AWS EC2 instance of your choice. I chose Ubuntu and had
 https://dev.to/cindyledev/remote-development-with-visual-studio-code-on-aws-ec2-4cla
 
 Follow this guide for spinning up the EC2 instance but change the server Instance type as you wish. There is a way to spin this up without a gui which i will be working on at a later date. Refrence to that method will be below.
-
 https://medium.com/nerd-for-tech/how-to-create-a-ubuntu-20-04-server-on-aws-ec2-elastic-cloud-computing-5b423b5bf635
 
 Once Instance is running connect to the instance over SSH, I had windows terminal issues and had to trouble shoot using the following guides. 
-
 https://stackoverflow.com/questions/57363597/how-to-use-a-new-windows-terminal-app-for-ssh
 https://stackoverflow.com/questions/24158177/ssh-is-not-recognized-as-an-internal-or-external-command
 

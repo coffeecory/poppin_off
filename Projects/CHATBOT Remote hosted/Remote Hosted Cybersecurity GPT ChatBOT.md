@@ -76,7 +76,7 @@ openai.api_key =  os.environ["gpt_api_key"]
 
 Test the Bot locally 
 
-Again, another method of storing the variable is by using .env folder that you need to remember to .gitignore. The code for that modification is as follows. https://blog.gitguardian.com/how-to-handle-secrets-in-python/
+Again, another method of storing the variable is by using .env fil that you need to remember to .gitignore. The code for that modification is as follows. https://blog.gitguardian.com/how-to-handle-secrets-in-python/
 https://www.toptal.com/developers/gitignore/
 
 ```Python

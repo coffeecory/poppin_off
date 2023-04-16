@@ -50,7 +50,7 @@ Get the API keys from Chat GPT you will have to signup for a paid account. The r
 ![](../../Media/Pasted%20image%2020230416114831.png)
 
 
-For GPT 4 its
+For GPT 4 Pricing
 
 ![](../../Media/Pasted%20image%2020230416114951.png)
 

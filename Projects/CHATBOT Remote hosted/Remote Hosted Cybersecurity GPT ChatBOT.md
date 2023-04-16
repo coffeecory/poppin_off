@@ -198,7 +198,7 @@ From the command line install the pip modules for openai and gradio
 
 Now your ready to open your first project. I suggest cloning down the code from your GitHub repository that you forked off the intial local testing AIAdvantage repo from beginning of this lab. So basically you just commit your forked code changes up to your personal repo remotely. Then you can clone that remote repo back down to your AWS Ubuntu server instance. 
 
-In your linux terminal open a new visual code window or clone the remote repo for chatgpt-api-youtube or your code changes instance of the chatbot code I explained about ealier. 
+In your linux terminal open a new visual code window, then clone the remote repo for chatgpt-api-youtube or clone your code changes of the chatbot code you pushed to your forked remote repo I explained about above. (You dont have to fork...)
 
 [How To Clone Git Project (The right way) - YouTube](https://www.youtube.com/watch?v=OFhO1s9WAk4)
 

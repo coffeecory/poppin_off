@@ -23,7 +23,7 @@ This guide also assists users with:
 - Setup a local instance of the Chatbot and not share it out using HuggingFaces.
 - And more...
 
-#### Current working link: https://90d0316515f44c883c.gradio.live
+#### Current working link: https://fc1c046af3ae5bf5be.gradio.live
 
 GPT = Generative Pre-Trained Transformer 
 

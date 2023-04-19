@@ -30,12 +30,12 @@ GPT = Generative Pre-Trained Transformer
 "Allows for a small amount of input text to generate large volumns and relevant and sophisticated machine generated content" - Dr. Alex Young - [Is This The FUTURE Of Note-Taking? (ChatGPT For Studying) - YouTube](https://www.youtube.com/watch?v=YN1yeis37G0)
 
 ### NOTE: If you havn't installed VScode on your local machine follow the guide below as you will need VS Code fully setup with python to start this guide.
-[(429) How to setup Python for VSCode in 2023 in 5mins! | Install Python and Setup VSCode for Windows 10 - YouTube](https://www.youtube.com/watch?v=cUAK4x_7thA)
+[How to setup Python for VSCode in 2023 in 5mins! | Install Python and Setup VSCode for Windows 10 - YouTube](https://www.youtube.com/watch?v=cUAK4x_7thA)
 
 ## Start by coding the Chatbot Locally 
 
 Once VS Code is installed and python dev environment is setup then continue 
-[(425) ChatGPT in Python for Beginners - Build A Chatbot - YouTube](https://www.youtube.com/watch?v=pGOyw_M1mNE)
+[ChatGPT in Python for Beginners - Build A Chatbot - YouTube](https://www.youtube.com/watch?v=pGOyw_M1mNE)
 -   <a class="youtubeTimestamp" href="https://www.youtube.com/watch?v=pGOyw_M1mNE&t=623">10:23</a>
 
 This code will need to be modified, you dont want to store you api_keys in your code in clear text. 
@@ -49,12 +49,11 @@ Get the API keys from Chat GPT you will have to signup for a paid account. The r
 
 ![](../../Media/Pasted%20image%2020230416114831.png)
 
-
 For GPT 4 Pricing
 
 ![](../../Media/Pasted%20image%2020230416114951.png)
 
-we are using GPT-3.5-Turbo
+We are using GPT-3.5-Turbo
 
 ### Set Environment Variables
 
@@ -74,7 +73,7 @@ import os
 openai.api_key =  os.environ["gpt_api_key"]
 ```
 
-Test the Bot locally 
+Test the Bot locallyce
 
 Again, another method of storing the variable is by using .env file that you need to remember to .gitignore. The code for that modification is as follows. https://blog.gitguardian.com/how-to-handle-secrets-in-python/
 https://www.toptal.com/developers/gitignore/
@@ -282,10 +281,13 @@ https://huggingface.co/course/chapter9/4?fw=pt
 
 This didnt work well for me.
 
-[(426) How to Connect to Remote AWS EC2 Ubuntu GUI from Local Windows Machine - YouTube](https://www.youtube.com/watch?v=ndA4atuCqms)
+[How to Connect to Remote AWS EC2 Ubuntu GUI from Local Windows Machine - YouTube](https://www.youtube.com/watch?v=ndA4atuCqms)
 -   <a class="youtubeTimestamp" href="https://www.youtube.com/watch?v=ndA4atuCqms&t=567">9:27</a>
 
 https://cloudzy.com/knowledge-base/copy-paste-not-working-in-rdp/
 
 [AWS EC2 SSH key management | How to launch and SSH into EC2 instance with public & private key pair - YouTube](https://www.youtube.com/watch?v=S5B09dq-jGQ)
 
+Installing python ubuntu terminal
+
+https://www.makeuseof.com/install-python-ubuntu/

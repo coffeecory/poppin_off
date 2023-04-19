@@ -20,6 +20,102 @@
             }
           },
           {
+            "id": "37fb30e64cae5113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Initialiaze Git Repo and Set Obsidian Git Auto Backup on already created vault - GitHub workspace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "687566b26bdf6cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afa41dd7f8abadbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ff84f841ca22976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BlueTeam Labs/Easy/SOC ALPHA 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34fcddf083f46fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BlueTeam Labs/Easy/SOC ALPHA 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "497517155adb6fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BlueTeam Labs/Easy/SOC ALPHA 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4855f6fd67c97396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API/SecTools/Cyware CYAPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4c030ff1a5c4035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API/SecTools/CYAPI Hash Grabber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "35f5c2fb28df8e5d",
             "type": "leaf",
             "state": {
@@ -55,7 +151,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -113,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+                "file": "API/SecTools/CYAPI Hash Grabber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,23 +237,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c2551ddbc9b15763",
+  "active": "a4c030ff1a5c4035",
   "lastOpenFiles": [
+    "API/SecTools/Cyware CYAPI.md",
+    "API/SecTools/CYAPI Hash Grabber.md",
+    "BlueTeam Labs/Easy/SOC ALPHA 3.md",
+    "API/SecTools",
+    "Media/Pasted image 20230418211125.png",
+    "BlueTeam Labs/Easy/SOC ALPHA 2.md",
+    "Media/Pasted image 20230418210641.png",
+    "BlueTeam Labs/Easy/SOC ALPHA 1.md",
+    "Media/Pasted image 20230418210050.png",
+    "Media/Pasted image 20230418210044.png",
+    "Media/Pasted image 20230418205941.png",
+    "Media/Pasted image 20230418205937.png",
+    "Media/Pasted image 20230418205808.png",
+    "Media/Pasted image 20230418205623.png",
+    "Media/Pasted image 20230418205525.png",
+    "Media/Pasted image 20230418204418.png",
+    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+    "BlueTeam Labs/Easy",
+    "BlueTeam Labs",
+    "Powershell/Profile/Customise PowerShell to 10x Your Productivity.md",
+    "Powershell/Profile",
+    "Powershell",
     "GPT/Chabots/ChatGPT in Python for Beginners - Build A Chatbot.md",
+    "GPT/API/Curl GPT.md",
+    "Git/Initialiaze Git Repo and Set Obsidian Git Auto Backup on already created vault - GitHub workspace.md",
+    "Git",
     "IR_resources/resources.md",
     "Blue Team/Investigations/Resources.md",
     "Corp Tricks/Slides/Resources.md",
-    "Media/Pasted image 20230205133818.png",
-    "Media/Pasted image 20230409113721.png",
-    "Media/Pasted image 20230405190241.png",
-    "Media/Pasted image 20230405190251.png",
-    "Media/Pasted image 20230405190301.png",
-    "Media/Pasted image 20230405190311.png",
-    "Media/Pasted image 20230408120038.png",
-    "Media/Pasted image 20230408170225.png",
-    "Media/Pasted image 20230408152752.png",
-    "Media/Pasted image 20230408152733.png",
-    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
     "README.md",
     "training/SOC/Continuous Improvement, Analytics, and Automation/1- Improving Life in the SOC.md",
     "training/SOC/Continuous Improvement, Analytics, and Automation/2- Analytic Features and Enrichment.md",
@@ -171,22 +282,8 @@
     "training/SOC/Triage and Analysis/4- Structured Analytical Techniques.md",
     "training/SOC/Triage and Analysis/3- Models Concepts for Infosec.md",
     "training/SOC/Triage and Analysis/2- Perception, Memory, and Investigation.md",
-    "training/SOC/Triage and Analysis/1- Alert Triage and Prioritization.md",
-    "training/SOC/Networks/Networks.md",
-    "training/SOC/Endpoint logs and files/Windows Logging.md",
-    "training/SOC/Endpoint logs and files/Log Collection, Parsing, Normalization.md",
-    "training/SOC/Endpoint logs and files/Linux Logging.md",
-    "training/SOC/Endpoint logs and files/Important Events.md",
-    "training/SOC/Endpoint logs and files/File Contents and Identification.md",
-    "training/SOC/Endpoint logs and files/Identifying and Handling Suspicous Files.md",
     "training/SOC/Triage and Analysis",
     "training/SOC/Networks",
-    "training/SOC/Endpoint logs and files",
-    "training/SOC/Labs",
-    "training/SOC/Blue Tools",
-    "training/SOC/Continuous Improvement, Analytics, and Automation",
-    "training/SOC",
-    "training",
-    "PWSH"
+    "training/SOC/Endpoint logs and files"
   ]
 }

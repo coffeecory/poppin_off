@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "be6c73ad5195435c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lisa/Nursing Chat Bot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "35f5c2fb28df8e5d",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -210,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+                "file": "Lisa/Nursing Chat Bot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,8 +249,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a4c030ff1a5c4035",
+  "active": "be6c73ad5195435c",
   "lastOpenFiles": [
+    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+    "Lisa/Nursing Chat Bot.md",
+    "Lisa",
     "API/SecTools/CYAPI Hash Grabber.md",
     "API/SecTools/Cyware CYAPI.md",
     "BlueTeam Labs/Easy/SOC ALPHA 3.md",
@@ -255,7 +270,6 @@
     "Media/Pasted image 20230418205623.png",
     "Media/Pasted image 20230418205525.png",
     "Media/Pasted image 20230418204418.png",
-    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
     "BlueTeam Labs/Easy",
     "BlueTeam Labs",
     "Powershell/Profile/Customise PowerShell to 10x Your Productivity.md",
@@ -281,9 +295,7 @@
     "training/SOC/Triage and Analysis/6- OPSEC Analysis.md",
     "training/SOC/Triage and Analysis/4- Structured Analytical Techniques.md",
     "training/SOC/Triage and Analysis/3- Models Concepts for Infosec.md",
-    "training/SOC/Triage and Analysis/2- Perception, Memory, and Investigation.md",
     "training/SOC/Triage and Analysis",
-    "training/SOC/Networks",
-    "training/SOC/Endpoint logs and files"
+    "training/SOC/Networks"
   ]
 }

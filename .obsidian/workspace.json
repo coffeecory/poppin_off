@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+                "file": "BlueTeam Labs/Easy/SOC ALPHA 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+                "file": "BlueTeam Labs/Easy/SOC ALPHA 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,19 +251,20 @@
   },
   "active": "be6c73ad5195435c",
   "lastOpenFiles": [
+    "BlueTeam Labs/Easy/SOC ALPHA 2.md",
+    "BlueTeam Labs/Easy/SOC ALPHA 1.md",
+    "Media/Pasted image 20230204201814.png",
+    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
     "API/SecTools/Trancotop100/tranco1millapi.py",
     "API/SecTools/Trancotop100",
     "Lisa/Nursing Chat Bot.md",
-    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
     "Lisa",
     "API/SecTools/CYAPI Hash Grabber.md",
     "API/SecTools/Cyware CYAPI.md",
     "BlueTeam Labs/Easy/SOC ALPHA 3.md",
     "API/SecTools",
     "Media/Pasted image 20230418211125.png",
-    "BlueTeam Labs/Easy/SOC ALPHA 2.md",
     "Media/Pasted image 20230418210641.png",
-    "BlueTeam Labs/Easy/SOC ALPHA 1.md",
     "Media/Pasted image 20230418210050.png",
     "Media/Pasted image 20230418210044.png",
     "Media/Pasted image 20230418205941.png",
@@ -271,7 +272,6 @@
     "Media/Pasted image 20230418205808.png",
     "Media/Pasted image 20230418205623.png",
     "Media/Pasted image 20230418205525.png",
-    "Media/Pasted image 20230418204418.png",
     "BlueTeam Labs/Easy",
     "BlueTeam Labs",
     "Powershell/Profile/Customise PowerShell to 10x Your Productivity.md",
@@ -295,7 +295,6 @@
     "training/SOC/Triage and Analysis/7- Intrusion Discovery.md",
     "training/SOC/Triage and Analysis/5- Analysis Questions and Tactics.md",
     "training/SOC/Triage and Analysis/6- OPSEC Analysis.md",
-    "training/SOC/Triage and Analysis/4- Structured Analytical Techniques.md",
-    "training/SOC/Triage and Analysis"
+    "training/SOC/Triage and Analysis/4- Structured Analytical Techniques.md"
   ]
 }

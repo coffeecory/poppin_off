@@ -251,6 +251,8 @@
   },
   "active": "be6c73ad5195435c",
   "lastOpenFiles": [
+    "API/SecTools/Trancotop100/tranco1millapi.py",
+    "API/SecTools/Trancotop100",
     "Lisa/Nursing Chat Bot.md",
     "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
     "Lisa",
@@ -294,8 +296,6 @@
     "training/SOC/Triage and Analysis/5- Analysis Questions and Tactics.md",
     "training/SOC/Triage and Analysis/6- OPSEC Analysis.md",
     "training/SOC/Triage and Analysis/4- Structured Analytical Techniques.md",
-    "training/SOC/Triage and Analysis/3- Models Concepts for Infosec.md",
-    "training/SOC/Triage and Analysis",
-    "training/SOC/Networks"
+    "training/SOC/Triage and Analysis"
   ]
 }

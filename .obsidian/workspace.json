@@ -140,6 +140,30 @@
             }
           },
           {
+            "id": "4b64ad92536703b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API/SecTools/VirusTotal API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "423060829257b543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API/OSINT/PSEs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "35f5c2fb28df8e5d",
             "type": "leaf",
             "state": {
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -234,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reddit/Reddit Security ReadMe.md",
+                "file": "API/OSINT/PSEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,10 +285,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f1039410c5662395",
+  "active": "423060829257b543",
   "lastOpenFiles": [
-    "BlueTeam Labs/Easy/SOC ALPHA 3.md",
+    "API/SecTools/VirusTotal API.md",
+    "API/OSINT/PSEs.md",
+    "API/OSINT",
     "Reddit/Reddit Security ReadMe.md",
+    "BlueTeam Labs/Easy/SOC ALPHA 3.md",
     "Reddit",
     "BlueTeam Labs/Easy/SOC ALPHA 2.md",
     "BlueTeam Labs/Easy/SOC ALPHA 1.md",
@@ -294,7 +321,6 @@
     "GPT/Chabots/ChatGPT in Python for Beginners - Build A Chatbot.md",
     "GPT/API/Curl GPT.md",
     "Git/Initialiaze Git Repo and Set Obsidian Git Auto Backup on already created vault - GitHub workspace.md",
-    "Git",
     "IR_resources/resources.md",
     "Blue Team/Investigations/Resources.md",
     "Corp Tricks/Slides/Resources.md",
@@ -306,8 +332,6 @@
     "Links.md",
     "training/SOC/Triage and Analysis/8- Incident Closing and Quality Review.md",
     "training/SOC/Triage and Analysis/7- Intrusion Discovery.md",
-    "training/SOC/Triage and Analysis/5- Analysis Questions and Tactics.md",
-    "training/SOC/Triage and Analysis/6- OPSEC Analysis.md",
-    "training/SOC/Triage and Analysis/4- Structured Analytical Techniques.md"
+    "training/SOC/Triage and Analysis/5- Analysis Questions and Tactics.md"
   ]
 }

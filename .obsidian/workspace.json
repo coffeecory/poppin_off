@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/OSINT/PSEs.md",
+                "file": "templates/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -237,6 +237,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "3735d4dd9e1282fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -258,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/OSINT/PSEs.md",
+                "file": "templates/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,11 +290,18 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "423060829257b543",
   "lastOpenFiles": [
+    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
+    "templates/test.md",
+    "templates",
+    "VSCode/Change_Origin.md",
+    "Git/Initialiaze Git Repo and Set Obsidian Git Auto Backup on already created vault - GitHub workspace.md",
+    "API/env variables/Store & manage secrets like API keys in Python - Tech Tip Tuesdays.md",
     "API/SecTools/VirusTotal API.md",
     "API/OSINT/PSEs.md",
     "API/OSINT",
@@ -296,7 +311,6 @@
     "BlueTeam Labs/Easy/SOC ALPHA 2.md",
     "BlueTeam Labs/Easy/SOC ALPHA 1.md",
     "Media/Pasted image 20230204201814.png",
-    "Projects/CHATBOT Remote hosted/Remote Hosted Cybersecurity GPT ChatBOT.md",
     "API/SecTools/Trancotop100/tranco1millapi.py",
     "API/SecTools/Trancotop100",
     "Lisa/Nursing Chat Bot.md",
@@ -317,10 +331,8 @@
     "BlueTeam Labs",
     "Powershell/Profile/Customise PowerShell to 10x Your Productivity.md",
     "Powershell/Profile",
-    "Powershell",
     "GPT/Chabots/ChatGPT in Python for Beginners - Build A Chatbot.md",
     "GPT/API/Curl GPT.md",
-    "Git/Initialiaze Git Repo and Set Obsidian Git Auto Backup on already created vault - GitHub workspace.md",
     "IR_resources/resources.md",
     "Blue Team/Investigations/Resources.md",
     "Corp Tricks/Slides/Resources.md",
@@ -329,9 +341,6 @@
     "training/SOC/Continuous Improvement, Analytics, and Automation/2- Analytic Features and Enrichment.md",
     "Obsidian_Info/Links.md",
     "Untitled/Links.md",
-    "Links.md",
-    "training/SOC/Triage and Analysis/8- Incident Closing and Quality Review.md",
-    "training/SOC/Triage and Analysis/7- Intrusion Discovery.md",
-    "training/SOC/Triage and Analysis/5- Analysis Questions and Tactics.md"
+    "Links.md"
   ]
 }
